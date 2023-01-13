@@ -1,0 +1,1665 @@
+Initialize priorInitialize generative modelfunction [run] finished in 527 ms
+function [run] finished in 565 ms
+Initialize amortizerInitialize trainerfunction [run] finished in 525 ms
+function [run] finished in 500 ms
+Initialization finishedTraining epoch 1:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 528 ms
+function [run] finished in 620 ms
+function [run] finished in 501 ms
+function [run] finished in 553 ms
+function [run] finished in 565 ms
+function [run] finished in 493 ms
+function [run] finished in 512 ms
+function [run] finished in 786 ms
+Training epoch 1:   0%|          | 0/20 [00:05<?, ?it/s, Epoch: 1, Iter: 1,Loss: 0.297,Avg.Loss: 0.297,L.Slope: NA]Training epoch 1:   5%|▌         | 1/20 [00:05<01:39,  5.25s/it, Epoch: 1, Iter: 1,Loss: 0.297,Avg.Loss: 0.297,L.Slope: NA]function [run] finished in 585 ms
+function [run] finished in 604 ms
+function [run] finished in 558 ms
+function [run] finished in 503 ms
+function [run] finished in 540 ms
+function [run] finished in 604 ms
+function [run] finished in 551 ms
+function [run] finished in 522 ms
+Training epoch 1:   5%|▌         | 1/20 [00:09<01:39,  5.25s/it, Epoch: 1, Iter: 2,Loss: -0.093,Avg.Loss: 0.102,L.Slope: NA]Training epoch 1:  10%|█         | 2/20 [00:09<01:27,  4.88s/it, Epoch: 1, Iter: 2,Loss: -0.093,Avg.Loss: 0.102,L.Slope: NA]function [run] finished in 588 ms
+function [run] finished in 537 ms
+function [run] finished in 509 ms
+function [run] finished in 522 ms
+function [run] finished in 532 ms
+function [run] finished in 579 ms
+function [run] finished in 557 ms
+function [run] finished in 546 ms
+Training epoch 1:  10%|█         | 2/20 [00:14<01:27,  4.88s/it, Epoch: 1, Iter: 3,Loss: -0.159,Avg.Loss: 0.015,L.Slope: NA]Training epoch 1:  15%|█▌        | 3/20 [00:14<01:20,  4.72s/it, Epoch: 1, Iter: 3,Loss: -0.159,Avg.Loss: 0.015,L.Slope: NA]function [run] finished in 521 ms
+function [run] finished in 519 ms
+function [run] finished in 618 ms
+function [run] finished in 569 ms
+function [run] finished in 500 ms
+function [run] finished in 505 ms
+function [run] finished in 515 ms
+function [run] finished in 523 ms
+Training epoch 1:  15%|█▌        | 3/20 [00:18<01:20,  4.72s/it, Epoch: 1, Iter: 4,Loss: 0.377,Avg.Loss: 0.105,L.Slope: NA] Training epoch 1:  20%|██        | 4/20 [00:18<01:13,  4.60s/it, Epoch: 1, Iter: 4,Loss: 0.377,Avg.Loss: 0.105,L.Slope: NA]function [run] finished in 540 ms
+function [run] finished in 518 ms
+function [run] finished in 560 ms
+function [run] finished in 546 ms
+function [run] finished in 514 ms
+function [run] finished in 527 ms
+function [run] finished in 561 ms
+function [run] finished in 570 ms
+Training epoch 1:  20%|██        | 4/20 [00:23<01:13,  4.60s/it, Epoch: 1, Iter: 5,Loss: -0.532,Avg.Loss: -0.022,L.Slope: NA]Training epoch 1:  25%|██▌       | 5/20 [00:23<01:08,  4.56s/it, Epoch: 1, Iter: 5,Loss: -0.532,Avg.Loss: -0.022,L.Slope: NA]function [run] finished in 523 ms
+function [run] finished in 534 ms
+function [run] finished in 502 ms
+function [run] finished in 507 ms
+function [run] finished in 552 ms
+function [run] finished in 577 ms
+function [run] finished in 588 ms
+function [run] finished in 559 ms
+Training epoch 1:  25%|██▌       | 5/20 [00:27<01:08,  4.56s/it, Epoch: 1, Iter: 6,Loss: -0.333,Avg.Loss: -0.074,L.Slope: NA]Training epoch 1:  30%|███       | 6/20 [00:27<01:03,  4.53s/it, Epoch: 1, Iter: 6,Loss: -0.333,Avg.Loss: -0.074,L.Slope: NA]function [run] finished in 684 ms
+function [run] finished in 545 ms
+function [run] finished in 501 ms
+function [run] finished in 497 ms
+function [run] finished in 596 ms
+function [run] finished in 506 ms
+function [run] finished in 524 ms
+function [run] finished in 535 ms
+Training epoch 1:  30%|███       | 6/20 [00:32<01:03,  4.53s/it, Epoch: 1, Iter: 7,Loss: 0.002,Avg.Loss: -0.063,L.Slope: NA] Training epoch 1:  35%|███▌      | 7/20 [00:32<00:58,  4.53s/it, Epoch: 1, Iter: 7,Loss: 0.002,Avg.Loss: -0.063,L.Slope: NA]function [run] finished in 540 ms
+function [run] finished in 506 ms
+function [run] finished in 513 ms
+function [run] finished in 560 ms
+function [run] finished in 656 ms
+function [run] finished in 564 ms
+function [run] finished in 848 ms
+function [run] finished in 513 ms
+Training epoch 1:  35%|███▌      | 7/20 [00:37<00:58,  4.53s/it, Epoch: 1, Iter: 8,Loss: 0.026,Avg.Loss: -0.052,L.Slope: NA]Training epoch 1:  40%|████      | 8/20 [00:37<00:55,  4.63s/it, Epoch: 1, Iter: 8,Loss: 0.026,Avg.Loss: -0.052,L.Slope: NA]function [run] finished in 515 ms
+function [run] finished in 544 ms
+function [run] finished in 534 ms
+function [run] finished in 548 ms
+function [run] finished in 556 ms
+function [run] finished in 609 ms
+function [run] finished in 532 ms
+function [run] finished in 498 ms
+Training epoch 1:  40%|████      | 8/20 [00:41<00:55,  4.63s/it, Epoch: 1, Iter: 9,Loss: 0.048,Avg.Loss: -0.041,L.Slope: NA]Training epoch 1:  45%|████▌     | 9/20 [00:41<00:50,  4.58s/it, Epoch: 1, Iter: 9,Loss: 0.048,Avg.Loss: -0.041,L.Slope: NA]function [run] finished in 556 ms
+function [run] finished in 515 ms
+function [run] finished in 533 ms
+function [run] finished in 669 ms
+function [run] finished in 522 ms
+function [run] finished in 528 ms
+function [run] finished in 542 ms
+function [run] finished in 528 ms
+Training epoch 1:  45%|████▌     | 9/20 [00:46<00:50,  4.58s/it, Epoch: 1, Iter: 10,Loss: 0.057,Avg.Loss: -0.031,L.Slope: NA]Training epoch 1:  50%|█████     | 10/20 [00:46<00:45,  4.56s/it, Epoch: 1, Iter: 10,Loss: 0.057,Avg.Loss: -0.031,L.Slope: NA]function [run] finished in 536 ms
+function [run] finished in 523 ms
+function [run] finished in 518 ms
+function [run] finished in 557 ms
+function [run] finished in 535 ms
+function [run] finished in 572 ms
+function [run] finished in 510 ms
+function [run] finished in 506 ms
+Training epoch 1:  50%|█████     | 10/20 [00:50<00:45,  4.56s/it, Epoch: 1, Iter: 11,Loss: 0.059,Avg.Loss: -0.023,L.Slope: NA]Training epoch 1:  55%|█████▌    | 11/20 [00:50<00:40,  4.51s/it, Epoch: 1, Iter: 11,Loss: 0.059,Avg.Loss: -0.023,L.Slope: NA]function [run] finished in 519 ms
+function [run] finished in 550 ms
+function [run] finished in 492 ms
+function [run] finished in 523 ms
+function [run] finished in 482 ms
+function [run] finished in 564 ms
+function [run] finished in 526 ms
+function [run] finished in 484 ms
+Training epoch 1:  55%|█████▌    | 11/20 [00:54<00:40,  4.51s/it, Epoch: 1, Iter: 12,Loss: 0.288,Avg.Loss: 0.003,L.Slope: NA] Training epoch 1:  60%|██████    | 12/20 [00:54<00:35,  4.44s/it, Epoch: 1, Iter: 12,Loss: 0.288,Avg.Loss: 0.003,L.Slope: NA]function [run] finished in 526 ms
+function [run] finished in 520 ms
+function [run] finished in 569 ms
+function [run] finished in 609 ms
+function [run] finished in 510 ms
+function [run] finished in 544 ms
+function [run] finished in 573 ms
+function [run] finished in 477 ms
+Training epoch 1:  60%|██████    | 12/20 [00:59<00:35,  4.44s/it, Epoch: 1, Iter: 13,Loss: 0.017,Avg.Loss: 0.004,L.Slope: NA]Training epoch 1:  65%|██████▌   | 13/20 [00:59<00:31,  4.45s/it, Epoch: 1, Iter: 13,Loss: 0.017,Avg.Loss: 0.004,L.Slope: NA]function [run] finished in 512 ms
+function [run] finished in 518 ms
+function [run] finished in 559 ms
+function [run] finished in 542 ms
+function [run] finished in 481 ms
+function [run] finished in 514 ms
+function [run] finished in 535 ms
+function [run] finished in 515 ms
+Training epoch 1:  65%|██████▌   | 13/20 [01:03<00:31,  4.45s/it, Epoch: 1, Iter: 14,Loss: -0.351,Avg.Loss: -0.021,L.Slope: NA]Training epoch 1:  70%|███████   | 14/20 [01:03<00:26,  4.41s/it, Epoch: 1, Iter: 14,Loss: -0.351,Avg.Loss: -0.021,L.Slope: NA]function [run] finished in 576 ms
+function [run] finished in 509 ms
+function [run] finished in 521 ms
+function [run] finished in 580 ms
+function [run] finished in 555 ms
+function [run] finished in 664 ms
+function [run] finished in 531 ms
+function [run] finished in 563 ms
+Training epoch 1:  70%|███████   | 14/20 [01:08<00:26,  4.41s/it, Epoch: 1, Iter: 15,Loss: -0.103,Avg.Loss: -0.027,L.Slope: NA]Training epoch 1:  75%|███████▌  | 15/20 [01:08<00:22,  4.48s/it, Epoch: 1, Iter: 15,Loss: -0.103,Avg.Loss: -0.027,L.Slope: NA]function [run] finished in 504 ms
+function [run] finished in 500 ms
+function [run] finished in 537 ms
+function [run] finished in 478 ms
+function [run] finished in 504 ms
+function [run] finished in 572 ms
+function [run] finished in 497 ms
+function [run] finished in 515 ms
+Training epoch 1:  75%|███████▌  | 15/20 [01:12<00:22,  4.48s/it, Epoch: 1, Iter: 16,Loss: 0.159,Avg.Loss: -0.015,L.Slope: NA] Training epoch 1:  80%|████████  | 16/20 [01:12<00:17,  4.41s/it, Epoch: 1, Iter: 16,Loss: 0.159,Avg.Loss: -0.015,L.Slope: NA]function [run] finished in 566 ms
+function [run] finished in 504 ms
+function [run] finished in 509 ms
+function [run] finished in 550 ms
+function [run] finished in 520 ms
+function [run] finished in 498 ms
+function [run] finished in 545 ms
+function [run] finished in 485 ms
+Training epoch 1:  80%|████████  | 16/20 [01:16<00:17,  4.41s/it, Epoch: 1, Iter: 17,Loss: -0.477,Avg.Loss: -0.042,L.Slope: NA]Training epoch 1:  85%|████████▌ | 17/20 [01:16<00:13,  4.38s/it, Epoch: 1, Iter: 17,Loss: -0.477,Avg.Loss: -0.042,L.Slope: NA]function [run] finished in 499 ms
+function [run] finished in 531 ms
+function [run] finished in 481 ms
+function [run] finished in 550 ms
+function [run] finished in 536 ms
+function [run] finished in 511 ms
+function [run] finished in 507 ms
+function [run] finished in 569 ms
+Training epoch 1:  85%|████████▌ | 17/20 [01:21<00:13,  4.38s/it, Epoch: 1, Iter: 18,Loss: -0.606,Avg.Loss: -0.074,L.Slope: NA]Training epoch 1:  90%|█████████ | 18/20 [01:21<00:08,  4.36s/it, Epoch: 1, Iter: 18,Loss: -0.606,Avg.Loss: -0.074,L.Slope: NA]function [run] finished in 555 ms
+function [run] finished in 710 ms
+function [run] finished in 548 ms
+function [run] finished in 593 ms
+function [run] finished in 511 ms
+function [run] finished in 527 ms
+function [run] finished in 527 ms
+function [run] finished in 534 ms
+Training epoch 1:  90%|█████████ | 18/20 [01:25<00:08,  4.36s/it, Epoch: 1, Iter: 19,Loss: 0.341,Avg.Loss: -0.052,L.Slope: NA] Training epoch 1:  95%|█████████▌| 19/20 [01:25<00:04,  4.45s/it, Epoch: 1, Iter: 19,Loss: 0.341,Avg.Loss: -0.052,L.Slope: NA]function [run] finished in 574 ms
+function [run] finished in 578 ms
+function [run] finished in 527 ms
+function [run] finished in 550 ms
+function [run] finished in 535 ms
+function [run] finished in 563 ms
+function [run] finished in 662 ms
+function [run] finished in 509 ms
+Training epoch 1:  95%|█████████▌| 19/20 [01:30<00:04,  4.45s/it, Epoch: 1, Iter: 20,Loss: 0.526,Avg.Loss: -0.023,L.Slope: NA]Training epoch 1: 100%|██████████| 20/20 [01:30<00:00,  4.51s/it, Epoch: 1, Iter: 20,Loss: 0.526,Avg.Loss: -0.023,L.Slope: NA]Training epoch 1: 100%|██████████| 20/20 [01:30<00:00,  4.52s/it, Epoch: 1, Iter: 20,Loss: 0.526,Avg.Loss: -0.023,L.Slope: NA]
+Training epoch 2:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 572 ms
+function [run] finished in 641 ms
+function [run] finished in 514 ms
+function [run] finished in 507 ms
+function [run] finished in 536 ms
+function [run] finished in 530 ms
+function [run] finished in 501 ms
+function [run] finished in 541 ms
+Training epoch 2:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 2, Iter: 1,Loss: -0.287,Avg.Loss: -0.287,L.Slope: NA]Training epoch 2:   5%|▌         | 1/20 [00:04<01:25,  4.50s/it, Epoch: 2, Iter: 1,Loss: -0.287,Avg.Loss: -0.287,L.Slope: NA]function [run] finished in 537 ms
+function [run] finished in 477 ms
+function [run] finished in 486 ms
+function [run] finished in 518 ms
+function [run] finished in 573 ms
+function [run] finished in 508 ms
+function [run] finished in 561 ms
+function [run] finished in 509 ms
+Training epoch 2:   5%|▌         | 1/20 [00:08<01:25,  4.50s/it, Epoch: 2, Iter: 2,Loss: -0.580,Avg.Loss: -0.433,L.Slope: NA]Training epoch 2:  10%|█         | 2/20 [00:08<01:18,  4.39s/it, Epoch: 2, Iter: 2,Loss: -0.580,Avg.Loss: -0.433,L.Slope: NA]function [run] finished in 512 ms
+function [run] finished in 519 ms
+function [run] finished in 563 ms
+function [run] finished in 542 ms
+function [run] finished in 514 ms
+function [run] finished in 512 ms
+function [run] finished in 505 ms
+function [run] finished in 524 ms
+Training epoch 2:  10%|█         | 2/20 [00:13<01:18,  4.39s/it, Epoch: 2, Iter: 3,Loss: -0.439,Avg.Loss: -0.435,L.Slope: NA]Training epoch 2:  15%|█▌        | 3/20 [00:13<01:14,  4.37s/it, Epoch: 2, Iter: 3,Loss: -0.439,Avg.Loss: -0.435,L.Slope: NA]function [run] finished in 540 ms
+function [run] finished in 542 ms
+function [run] finished in 487 ms
+function [run] finished in 509 ms
+function [run] finished in 532 ms
+function [run] finished in 502 ms
+function [run] finished in 511 ms
+function [run] finished in 546 ms
+Training epoch 2:  15%|█▌        | 3/20 [00:17<01:14,  4.37s/it, Epoch: 2, Iter: 4,Loss: 0.171,Avg.Loss: -0.284,L.Slope: NA] Training epoch 2:  20%|██        | 4/20 [00:17<01:09,  4.35s/it, Epoch: 2, Iter: 4,Loss: 0.171,Avg.Loss: -0.284,L.Slope: NA]function [run] finished in 539 ms
+function [run] finished in 723 ms
+function [run] finished in 531 ms
+function [run] finished in 509 ms
+function [run] finished in 511 ms
+function [run] finished in 520 ms
+function [run] finished in 510 ms
+function [run] finished in 524 ms
+Training epoch 2:  20%|██        | 4/20 [00:21<01:09,  4.35s/it, Epoch: 2, Iter: 5,Loss: -0.535,Avg.Loss: -0.334,L.Slope: NA]Training epoch 2:  25%|██▌       | 5/20 [00:21<01:06,  4.40s/it, Epoch: 2, Iter: 5,Loss: -0.535,Avg.Loss: -0.334,L.Slope: NA]function [run] finished in 535 ms
+function [run] finished in 549 ms
+function [run] finished in 492 ms
+function [run] finished in 509 ms
+function [run] finished in 492 ms
+function [run] finished in 519 ms
+function [run] finished in 513 ms
+function [run] finished in 534 ms
+Training epoch 2:  25%|██▌       | 5/20 [00:26<01:06,  4.40s/it, Epoch: 2, Iter: 6,Loss: -0.412,Avg.Loss: -0.347,L.Slope: NA]Training epoch 2:  30%|███       | 6/20 [00:26<01:01,  4.36s/it, Epoch: 2, Iter: 6,Loss: -0.412,Avg.Loss: -0.347,L.Slope: NA]function [run] finished in 560 ms
+function [run] finished in 485 ms
+function [run] finished in 511 ms
+function [run] finished in 521 ms
+function [run] finished in 532 ms
+function [run] finished in 511 ms
+function [run] finished in 509 ms
+function [run] finished in 545 ms
+Training epoch 2:  30%|███       | 6/20 [00:30<01:01,  4.36s/it, Epoch: 2, Iter: 7,Loss: -0.164,Avg.Loss: -0.321,L.Slope: NA]Training epoch 2:  35%|███▌      | 7/20 [00:30<00:56,  4.34s/it, Epoch: 2, Iter: 7,Loss: -0.164,Avg.Loss: -0.321,L.Slope: NA]function [run] finished in 518 ms
+function [run] finished in 509 ms
+function [run] finished in 526 ms
+function [run] finished in 508 ms
+function [run] finished in 515 ms
+function [run] finished in 529 ms
+function [run] finished in 516 ms
+function [run] finished in 504 ms
+Training epoch 2:  35%|███▌      | 7/20 [00:34<00:56,  4.34s/it, Epoch: 2, Iter: 8,Loss: -0.187,Avg.Loss: -0.304,L.Slope: NA]Training epoch 2:  40%|████      | 8/20 [00:34<00:51,  4.32s/it, Epoch: 2, Iter: 8,Loss: -0.187,Avg.Loss: -0.304,L.Slope: NA]function [run] finished in 555 ms
+function [run] finished in 518 ms
+function [run] finished in 533 ms
+function [run] finished in 489 ms
+function [run] finished in 518 ms
+function [run] finished in 526 ms
+function [run] finished in 493 ms
+function [run] finished in 539 ms
+Training epoch 2:  40%|████      | 8/20 [00:39<00:51,  4.32s/it, Epoch: 2, Iter: 9,Loss: -0.291,Avg.Loss: -0.303,L.Slope: NA]Training epoch 2:  45%|████▌     | 9/20 [00:39<00:47,  4.31s/it, Epoch: 2, Iter: 9,Loss: -0.291,Avg.Loss: -0.303,L.Slope: NA]function [run] finished in 541 ms
+function [run] finished in 543 ms
+function [run] finished in 555 ms
+function [run] finished in 527 ms
+function [run] finished in 521 ms
+function [run] finished in 561 ms
+function [run] finished in 524 ms
+function [run] finished in 522 ms
+Training epoch 2:  45%|████▌     | 9/20 [00:43<00:47,  4.31s/it, Epoch: 2, Iter: 10,Loss: -0.394,Avg.Loss: -0.312,L.Slope: NA]Training epoch 2:  50%|█████     | 10/20 [00:43<00:43,  4.35s/it, Epoch: 2, Iter: 10,Loss: -0.394,Avg.Loss: -0.312,L.Slope: NA]function [run] finished in 560 ms
+function [run] finished in 504 ms
+function [run] finished in 487 ms
+function [run] finished in 525 ms
+function [run] finished in 518 ms
+function [run] finished in 534 ms
+function [run] finished in 527 ms
+function [run] finished in 593 ms
+Training epoch 2:  50%|█████     | 10/20 [00:47<00:43,  4.35s/it, Epoch: 2, Iter: 11,Loss: -0.419,Avg.Loss: -0.322,L.Slope: NA]Training epoch 2:  55%|█████▌    | 11/20 [00:47<00:39,  4.37s/it, Epoch: 2, Iter: 11,Loss: -0.419,Avg.Loss: -0.322,L.Slope: NA]function [run] finished in 513 ms
+function [run] finished in 562 ms
+function [run] finished in 537 ms
+function [run] finished in 542 ms
+function [run] finished in 520 ms
+function [run] finished in 503 ms
+function [run] finished in 506 ms
+function [run] finished in 579 ms
+Training epoch 2:  55%|█████▌    | 11/20 [00:52<00:39,  4.37s/it, Epoch: 2, Iter: 12,Loss: -0.174,Avg.Loss: -0.309,L.Slope: NA]Training epoch 2:  60%|██████    | 12/20 [00:52<00:35,  4.38s/it, Epoch: 2, Iter: 12,Loss: -0.174,Avg.Loss: -0.309,L.Slope: NA]function [run] finished in 619 ms
+function [run] finished in 576 ms
+function [run] finished in 518 ms
+function [run] finished in 499 ms
+function [run] finished in 593 ms
+function [run] finished in 524 ms
+function [run] finished in 505 ms
+function [run] finished in 495 ms
+Training epoch 2:  60%|██████    | 12/20 [00:56<00:35,  4.38s/it, Epoch: 2, Iter: 13,Loss: 0.371,Avg.Loss: -0.257,L.Slope: NA] Training epoch 2:  65%|██████▌   | 13/20 [00:56<00:30,  4.41s/it, Epoch: 2, Iter: 13,Loss: 0.371,Avg.Loss: -0.257,L.Slope: NA]function [run] finished in 514 ms
+function [run] finished in 500 ms
+function [run] finished in 553 ms
+function [run] finished in 508 ms
+function [run] finished in 526 ms
+function [run] finished in 523 ms
+function [run] finished in 526 ms
+function [run] finished in 548 ms
+Training epoch 2:  65%|██████▌   | 13/20 [01:01<00:30,  4.41s/it, Epoch: 2, Iter: 14,Loss: 0.067,Avg.Loss: -0.234,L.Slope: NA]Training epoch 2:  70%|███████   | 14/20 [01:01<00:26,  4.39s/it, Epoch: 2, Iter: 14,Loss: 0.067,Avg.Loss: -0.234,L.Slope: NA]function [run] finished in 552 ms
+function [run] finished in 516 ms
+function [run] finished in 510 ms
+function [run] finished in 581 ms
+function [run] finished in 515 ms
+function [run] finished in 533 ms
+function [run] finished in 533 ms
+function [run] finished in 497 ms
+Training epoch 2:  70%|███████   | 14/20 [01:05<00:26,  4.39s/it, Epoch: 2, Iter: 15,Loss: 0.069,Avg.Loss: -0.214,L.Slope: NA]Training epoch 2:  75%|███████▌  | 15/20 [01:05<00:21,  4.39s/it, Epoch: 2, Iter: 15,Loss: 0.069,Avg.Loss: -0.214,L.Slope: NA]function [run] finished in 534 ms
+function [run] finished in 519 ms
+function [run] finished in 495 ms
+function [run] finished in 507 ms
+function [run] finished in 520 ms
+function [run] finished in 520 ms
+function [run] finished in 510 ms
+function [run] finished in 595 ms
+Training epoch 2:  75%|███████▌  | 15/20 [01:09<00:21,  4.39s/it, Epoch: 2, Iter: 16,Loss: -0.009,Avg.Loss: -0.201,L.Slope: NA]Training epoch 2:  80%|████████  | 16/20 [01:09<00:17,  4.37s/it, Epoch: 2, Iter: 16,Loss: -0.009,Avg.Loss: -0.201,L.Slope: NA]function [run] finished in 528 ms
+function [run] finished in 515 ms
+function [run] finished in 545 ms
+function [run] finished in 528 ms
+function [run] finished in 515 ms
+function [run] finished in 533 ms
+function [run] finished in 487 ms
+function [run] finished in 477 ms
+Training epoch 2:  80%|████████  | 16/20 [01:14<00:17,  4.37s/it, Epoch: 2, Iter: 17,Loss: -0.067,Avg.Loss: -0.193,L.Slope: NA]Training epoch 2:  85%|████████▌ | 17/20 [01:14<00:13,  4.34s/it, Epoch: 2, Iter: 17,Loss: -0.067,Avg.Loss: -0.193,L.Slope: NA]function [run] finished in 521 ms
+function [run] finished in 543 ms
+function [run] finished in 585 ms
+function [run] finished in 599 ms
+function [run] finished in 542 ms
+function [run] finished in 499 ms
+function [run] finished in 521 ms
+function [run] finished in 546 ms
+Training epoch 2:  85%|████████▌ | 17/20 [01:18<00:13,  4.34s/it, Epoch: 2, Iter: 18,Loss: 0.096,Avg.Loss: -0.177,L.Slope: NA] Training epoch 2:  90%|█████████ | 18/20 [01:18<00:08,  4.39s/it, Epoch: 2, Iter: 18,Loss: 0.096,Avg.Loss: -0.177,L.Slope: NA]function [run] finished in 527 ms
+function [run] finished in 534 ms
+function [run] finished in 536 ms
+function [run] finished in 503 ms
+function [run] finished in 499 ms
+function [run] finished in 480 ms
+function [run] finished in 540 ms
+function [run] finished in 518 ms
+Training epoch 2:  90%|█████████ | 18/20 [01:22<00:08,  4.39s/it, Epoch: 2, Iter: 19,Loss: -0.249,Avg.Loss: -0.181,L.Slope: NA]Training epoch 2:  95%|█████████▌| 19/20 [01:22<00:04,  4.35s/it, Epoch: 2, Iter: 19,Loss: -0.249,Avg.Loss: -0.181,L.Slope: NA]function [run] finished in 576 ms
+function [run] finished in 553 ms
+function [run] finished in 484 ms
+function [run] finished in 534 ms
+function [run] finished in 510 ms
+function [run] finished in 498 ms
+function [run] finished in 492 ms
+function [run] finished in 717 ms
+Training epoch 2:  95%|█████████▌| 19/20 [01:27<00:04,  4.35s/it, Epoch: 2, Iter: 20,Loss: -0.225,Avg.Loss: -0.183,L.Slope: NA]Training epoch 2: 100%|██████████| 20/20 [01:27<00:00,  4.40s/it, Epoch: 2, Iter: 20,Loss: -0.225,Avg.Loss: -0.183,L.Slope: NA]Training epoch 2: 100%|██████████| 20/20 [01:27<00:00,  4.37s/it, Epoch: 2, Iter: 20,Loss: -0.225,Avg.Loss: -0.183,L.Slope: NA]
+Training epoch 3:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 503 ms
+function [run] finished in 529 ms
+function [run] finished in 524 ms
+function [run] finished in 513 ms
+function [run] finished in 523 ms
+function [run] finished in 523 ms
+function [run] finished in 514 ms
+function [run] finished in 503 ms
+Training epoch 3:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 3, Iter: 1,Loss: 0.316,Avg.Loss: 0.316,L.Slope: NA]Training epoch 3:   5%|▌         | 1/20 [00:04<01:23,  4.38s/it, Epoch: 3, Iter: 1,Loss: 0.316,Avg.Loss: 0.316,L.Slope: NA]function [run] finished in 502 ms
+function [run] finished in 575 ms
+function [run] finished in 490 ms
+function [run] finished in 508 ms
+function [run] finished in 515 ms
+function [run] finished in 533 ms
+function [run] finished in 536 ms
+function [run] finished in 510 ms
+Training epoch 3:   5%|▌         | 1/20 [00:08<01:23,  4.38s/it, Epoch: 3, Iter: 2,Loss: -0.358,Avg.Loss: -0.021,L.Slope: NA]Training epoch 3:  10%|█         | 2/20 [00:08<01:18,  4.34s/it, Epoch: 3, Iter: 2,Loss: -0.358,Avg.Loss: -0.021,L.Slope: NA]function [run] finished in 550 ms
+function [run] finished in 475 ms
+function [run] finished in 546 ms
+function [run] finished in 533 ms
+function [run] finished in 538 ms
+function [run] finished in 520 ms
+function [run] finished in 558 ms
+function [run] finished in 537 ms
+Training epoch 3:  10%|█         | 2/20 [00:13<01:18,  4.34s/it, Epoch: 3, Iter: 3,Loss: -0.177,Avg.Loss: -0.073,L.Slope: NA]Training epoch 3:  15%|█▌        | 3/20 [00:13<01:14,  4.37s/it, Epoch: 3, Iter: 3,Loss: -0.177,Avg.Loss: -0.073,L.Slope: NA]function [run] finished in 507 ms
+function [run] finished in 515 ms
+function [run] finished in 550 ms
+function [run] finished in 541 ms
+function [run] finished in 524 ms
+function [run] finished in 510 ms
+function [run] finished in 508 ms
+function [run] finished in 535 ms
+Training epoch 3:  15%|█▌        | 3/20 [00:17<01:14,  4.37s/it, Epoch: 3, Iter: 4,Loss: 0.221,Avg.Loss: 0.001,L.Slope: NA]  Training epoch 3:  20%|██        | 4/20 [00:17<01:09,  4.36s/it, Epoch: 3, Iter: 4,Loss: 0.221,Avg.Loss: 0.001,L.Slope: NA]function [run] finished in 531 ms
+function [run] finished in 538 ms
+function [run] finished in 539 ms
+function [run] finished in 520 ms
+function [run] finished in 589 ms
+function [run] finished in 490 ms
+function [run] finished in 518 ms
+function [run] finished in 555 ms
+Training epoch 3:  20%|██        | 4/20 [00:21<01:09,  4.36s/it, Epoch: 3, Iter: 5,Loss: 0.025,Avg.Loss: 0.006,L.Slope: NA]Training epoch 3:  25%|██▌       | 5/20 [00:21<01:05,  4.38s/it, Epoch: 3, Iter: 5,Loss: 0.025,Avg.Loss: 0.006,L.Slope: NA]function [run] finished in 511 ms
+function [run] finished in 534 ms
+function [run] finished in 500 ms
+function [run] finished in 528 ms
+function [run] finished in 490 ms
+function [run] finished in 503 ms
+function [run] finished in 547 ms
+function [run] finished in 521 ms
+Training epoch 3:  25%|██▌       | 5/20 [00:26<01:05,  4.38s/it, Epoch: 3, Iter: 6,Loss: 0.461,Avg.Loss: 0.081,L.Slope: NA]Training epoch 3:  30%|███       | 6/20 [00:26<01:00,  4.35s/it, Epoch: 3, Iter: 6,Loss: 0.461,Avg.Loss: 0.081,L.Slope: NA]function [run] finished in 522 ms
+function [run] finished in 513 ms
+function [run] finished in 566 ms
+function [run] finished in 520 ms
+function [run] finished in 570 ms
+function [run] finished in 511 ms
+function [run] finished in 506 ms
+function [run] finished in 547 ms
+Training epoch 3:  30%|███       | 6/20 [00:30<01:00,  4.35s/it, Epoch: 3, Iter: 7,Loss: 0.886,Avg.Loss: 0.196,L.Slope: NA]Training epoch 3:  35%|███▌      | 7/20 [00:30<00:56,  4.36s/it, Epoch: 3, Iter: 7,Loss: 0.886,Avg.Loss: 0.196,L.Slope: NA]function [run] finished in 532 ms
+function [run] finished in 515 ms
+function [run] finished in 510 ms
+function [run] finished in 498 ms
+function [run] finished in 545 ms
+function [run] finished in 522 ms
+function [run] finished in 544 ms
+function [run] finished in 524 ms
+Training epoch 3:  35%|███▌      | 7/20 [00:34<00:56,  4.36s/it, Epoch: 3, Iter: 8,Loss: 0.052,Avg.Loss: 0.178,L.Slope: NA]Training epoch 3:  40%|████      | 8/20 [00:34<00:52,  4.35s/it, Epoch: 3, Iter: 8,Loss: 0.052,Avg.Loss: 0.178,L.Slope: NA]function [run] finished in 548 ms
+function [run] finished in 527 ms
+function [run] finished in 545 ms
+function [run] finished in 505 ms
+function [run] finished in 532 ms
+function [run] finished in 533 ms
+function [run] finished in 546 ms
+function [run] finished in 527 ms
+Training epoch 3:  40%|████      | 8/20 [00:39<00:52,  4.35s/it, Epoch: 3, Iter: 9,Loss: 0.293,Avg.Loss: 0.191,L.Slope: NA]Training epoch 3:  45%|████▌     | 9/20 [00:39<00:48,  4.37s/it, Epoch: 3, Iter: 9,Loss: 0.293,Avg.Loss: 0.191,L.Slope: NA]function [run] finished in 556 ms
+function [run] finished in 555 ms
+function [run] finished in 564 ms
+function [run] finished in 520 ms
+function [run] finished in 578 ms
+function [run] finished in 486 ms
+function [run] finished in 517 ms
+function [run] finished in 510 ms
+Training epoch 3:  45%|████▌     | 9/20 [00:43<00:48,  4.37s/it, Epoch: 3, Iter: 10,Loss: 0.206,Avg.Loss: 0.193,L.Slope: NA]Training epoch 3:  50%|█████     | 10/20 [00:43<00:43,  4.39s/it, Epoch: 3, Iter: 10,Loss: 0.206,Avg.Loss: 0.193,L.Slope: NA]function [run] finished in 551 ms
+function [run] finished in 512 ms
+function [run] finished in 509 ms
+function [run] finished in 518 ms
+function [run] finished in 524 ms
+function [run] finished in 512 ms
+function [run] finished in 519 ms
+function [run] finished in 487 ms
+Training epoch 3:  50%|█████     | 10/20 [00:47<00:43,  4.39s/it, Epoch: 3, Iter: 11,Loss: 0.369,Avg.Loss: 0.209,L.Slope: NA]Training epoch 3:  55%|█████▌    | 11/20 [00:47<00:39,  4.35s/it, Epoch: 3, Iter: 11,Loss: 0.369,Avg.Loss: 0.209,L.Slope: NA]function [run] finished in 516 ms
+function [run] finished in 471 ms
+function [run] finished in 496 ms
+function [run] finished in 511 ms
+function [run] finished in 527 ms
+function [run] finished in 524 ms
+function [run] finished in 507 ms
+function [run] finished in 456 ms
+Training epoch 3:  55%|█████▌    | 11/20 [00:52<00:39,  4.35s/it, Epoch: 3, Iter: 12,Loss: 0.017,Avg.Loss: 0.193,L.Slope: NA]Training epoch 3:  60%|██████    | 12/20 [00:52<00:34,  4.29s/it, Epoch: 3, Iter: 12,Loss: 0.017,Avg.Loss: 0.193,L.Slope: NA]function [run] finished in 548 ms
+function [run] finished in 568 ms
+function [run] finished in 529 ms
+function [run] finished in 534 ms
+function [run] finished in 529 ms
+function [run] finished in 512 ms
+function [run] finished in 564 ms
+function [run] finished in 561 ms
+Training epoch 3:  60%|██████    | 12/20 [00:56<00:34,  4.29s/it, Epoch: 3, Iter: 13,Loss: 0.154,Avg.Loss: 0.190,L.Slope: NA]Training epoch 3:  65%|██████▌   | 13/20 [00:56<00:30,  4.35s/it, Epoch: 3, Iter: 13,Loss: 0.154,Avg.Loss: 0.190,L.Slope: NA]function [run] finished in 597 ms
+function [run] finished in 534 ms
+function [run] finished in 521 ms
+function [run] finished in 542 ms
+function [run] finished in 565 ms
+function [run] finished in 510 ms
+function [run] finished in 540 ms
+function [run] finished in 535 ms
+Training epoch 3:  65%|██████▌   | 13/20 [01:01<00:30,  4.35s/it, Epoch: 3, Iter: 14,Loss: 0.011,Avg.Loss: 0.177,L.Slope: NA]Training epoch 3:  70%|███████   | 14/20 [01:01<00:26,  4.39s/it, Epoch: 3, Iter: 14,Loss: 0.011,Avg.Loss: 0.177,L.Slope: NA]function [run] finished in 580 ms
+function [run] finished in 520 ms
+function [run] finished in 516 ms
+function [run] finished in 525 ms
+function [run] finished in 511 ms
+function [run] finished in 524 ms
+function [run] finished in 551 ms
+function [run] finished in 537 ms
+Training epoch 3:  70%|███████   | 14/20 [01:05<00:26,  4.39s/it, Epoch: 3, Iter: 15,Loss: 0.183,Avg.Loss: 0.177,L.Slope: NA]Training epoch 3:  75%|███████▌  | 15/20 [01:05<00:22,  4.40s/it, Epoch: 3, Iter: 15,Loss: 0.183,Avg.Loss: 0.177,L.Slope: NA]function [run] finished in 531 ms
+function [run] finished in 522 ms
+function [run] finished in 577 ms
+function [run] finished in 505 ms
+function [run] finished in 542 ms
+function [run] finished in 536 ms
+function [run] finished in 544 ms
+function [run] finished in 528 ms
+Training epoch 3:  75%|███████▌  | 15/20 [01:09<00:22,  4.40s/it, Epoch: 3, Iter: 16,Loss: 0.014,Avg.Loss: 0.167,L.Slope: NA]Training epoch 3:  80%|████████  | 16/20 [01:09<00:17,  4.41s/it, Epoch: 3, Iter: 16,Loss: 0.014,Avg.Loss: 0.167,L.Slope: NA]function [run] finished in 510 ms
+function [run] finished in 556 ms
+function [run] finished in 516 ms
+function [run] finished in 509 ms
+function [run] finished in 526 ms
+function [run] finished in 499 ms
+function [run] finished in 532 ms
+function [run] finished in 509 ms
+Training epoch 3:  80%|████████  | 16/20 [01:14<00:17,  4.41s/it, Epoch: 3, Iter: 17,Loss: -0.368,Avg.Loss: 0.136,L.Slope: NA]Training epoch 3:  85%|████████▌ | 17/20 [01:14<00:13,  4.37s/it, Epoch: 3, Iter: 17,Loss: -0.368,Avg.Loss: 0.136,L.Slope: NA]function [run] finished in 546 ms
+function [run] finished in 506 ms
+function [run] finished in 543 ms
+function [run] finished in 577 ms
+function [run] finished in 505 ms
+function [run] finished in 501 ms
+function [run] finished in 514 ms
+function [run] finished in 485 ms
+Training epoch 3:  85%|████████▌ | 17/20 [01:18<00:13,  4.37s/it, Epoch: 3, Iter: 18,Loss: -0.066,Avg.Loss: 0.124,L.Slope: NA]Training epoch 3:  90%|█████████ | 18/20 [01:18<00:08,  4.36s/it, Epoch: 3, Iter: 18,Loss: -0.066,Avg.Loss: 0.124,L.Slope: NA]function [run] finished in 521 ms
+function [run] finished in 519 ms
+function [run] finished in 503 ms
+function [run] finished in 596 ms
+function [run] finished in 534 ms
+function [run] finished in 499 ms
+function [run] finished in 526 ms
+function [run] finished in 554 ms
+Training epoch 3:  90%|█████████ | 18/20 [01:22<00:08,  4.36s/it, Epoch: 3, Iter: 19,Loss: -0.421,Avg.Loss: 0.096,L.Slope: NA]Training epoch 3:  95%|█████████▌| 19/20 [01:22<00:04,  4.37s/it, Epoch: 3, Iter: 19,Loss: -0.421,Avg.Loss: 0.096,L.Slope: NA]function [run] finished in 524 ms
+function [run] finished in 486 ms
+function [run] finished in 518 ms
+function [run] finished in 523 ms
+function [run] finished in 547 ms
+function [run] finished in 559 ms
+function [run] finished in 506 ms
+function [run] finished in 542 ms
+Training epoch 3:  95%|█████████▌| 19/20 [01:27<00:04,  4.37s/it, Epoch: 3, Iter: 20,Loss: -0.332,Avg.Loss: 0.074,L.Slope: NA]Training epoch 3: 100%|██████████| 20/20 [01:27<00:00,  4.36s/it, Epoch: 3, Iter: 20,Loss: -0.332,Avg.Loss: 0.074,L.Slope: NA]Training epoch 3: 100%|██████████| 20/20 [01:27<00:00,  4.37s/it, Epoch: 3, Iter: 20,Loss: -0.332,Avg.Loss: 0.074,L.Slope: NA]
+Training epoch 4:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 580 ms
+function [run] finished in 578 ms
+function [run] finished in 540 ms
+function [run] finished in 500 ms
+function [run] finished in 516 ms
+function [run] finished in 541 ms
+function [run] finished in 511 ms
+function [run] finished in 525 ms
+Training epoch 4:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 4, Iter: 1,Loss: 0.329,Avg.Loss: 0.329,L.Slope: NA]Training epoch 4:   5%|▌         | 1/20 [00:04<01:24,  4.43s/it, Epoch: 4, Iter: 1,Loss: 0.329,Avg.Loss: 0.329,L.Slope: NA]function [run] finished in 522 ms
+function [run] finished in 558 ms
+function [run] finished in 540 ms
+function [run] finished in 526 ms
+function [run] finished in 529 ms
+function [run] finished in 522 ms
+function [run] finished in 504 ms
+function [run] finished in 546 ms
+Training epoch 4:   5%|▌         | 1/20 [00:08<01:24,  4.43s/it, Epoch: 4, Iter: 2,Loss: -0.017,Avg.Loss: 0.156,L.Slope: NA]Training epoch 4:  10%|█         | 2/20 [00:08<01:19,  4.40s/it, Epoch: 4, Iter: 2,Loss: -0.017,Avg.Loss: 0.156,L.Slope: NA]function [run] finished in 511 ms
+function [run] finished in 516 ms
+function [run] finished in 508 ms
+function [run] finished in 572 ms
+function [run] finished in 551 ms
+function [run] finished in 508 ms
+function [run] finished in 510 ms
+function [run] finished in 498 ms
+Training epoch 4:  10%|█         | 2/20 [00:13<01:19,  4.40s/it, Epoch: 4, Iter: 3,Loss: -0.040,Avg.Loss: 0.091,L.Slope: NA]Training epoch 4:  15%|█▌        | 3/20 [00:13<01:14,  4.36s/it, Epoch: 4, Iter: 3,Loss: -0.040,Avg.Loss: 0.091,L.Slope: NA]function [run] finished in 525 ms
+function [run] finished in 526 ms
+function [run] finished in 513 ms
+function [run] finished in 492 ms
+function [run] finished in 523 ms
+function [run] finished in 500 ms
+function [run] finished in 518 ms
+function [run] finished in 530 ms
+Training epoch 4:  15%|█▌        | 3/20 [00:17<01:14,  4.36s/it, Epoch: 4, Iter: 4,Loss: -0.202,Avg.Loss: 0.018,L.Slope: NA]Training epoch 4:  20%|██        | 4/20 [00:17<01:09,  4.33s/it, Epoch: 4, Iter: 4,Loss: -0.202,Avg.Loss: 0.018,L.Slope: NA]function [run] finished in 530 ms
+function [run] finished in 532 ms
+function [run] finished in 507 ms
+function [run] finished in 533 ms
+function [run] finished in 538 ms
+function [run] finished in 557 ms
+function [run] finished in 526 ms
+function [run] finished in 498 ms
+Training epoch 4:  20%|██        | 4/20 [00:21<01:09,  4.33s/it, Epoch: 4, Iter: 5,Loss: 0.899,Avg.Loss: 0.194,L.Slope: NA] Training epoch 4:  25%|██▌       | 5/20 [00:21<01:05,  4.35s/it, Epoch: 4, Iter: 5,Loss: 0.899,Avg.Loss: 0.194,L.Slope: NA]function [run] finished in 552 ms
+function [run] finished in 535 ms
+function [run] finished in 511 ms
+function [run] finished in 513 ms
+function [run] finished in 522 ms
+function [run] finished in 504 ms
+function [run] finished in 595 ms
+function [run] finished in 505 ms
+Training epoch 4:  25%|██▌       | 5/20 [00:26<01:05,  4.35s/it, Epoch: 4, Iter: 6,Loss: -0.072,Avg.Loss: 0.150,L.Slope: NA]Training epoch 4:  30%|███       | 6/20 [00:26<01:01,  4.36s/it, Epoch: 4, Iter: 6,Loss: -0.072,Avg.Loss: 0.150,L.Slope: NA]function [run] finished in 532 ms
+function [run] finished in 502 ms
+function [run] finished in 529 ms
+function [run] finished in 530 ms
+function [run] finished in 497 ms
+function [run] finished in 529 ms
+function [run] finished in 515 ms
+function [run] finished in 495 ms
+Training epoch 4:  30%|███       | 6/20 [00:30<01:01,  4.36s/it, Epoch: 4, Iter: 7,Loss: 0.049,Avg.Loss: 0.135,L.Slope: NA] Training epoch 4:  35%|███▌      | 7/20 [00:30<00:56,  4.34s/it, Epoch: 4, Iter: 7,Loss: 0.049,Avg.Loss: 0.135,L.Slope: NA]function [run] finished in 531 ms
+function [run] finished in 483 ms
+function [run] finished in 551 ms
+function [run] finished in 524 ms
+function [run] finished in 530 ms
+function [run] finished in 528 ms
+function [run] finished in 530 ms
+function [run] finished in 525 ms
+Training epoch 4:  35%|███▌      | 7/20 [00:34<00:56,  4.34s/it, Epoch: 4, Iter: 8,Loss: 0.075,Avg.Loss: 0.128,L.Slope: NA]Training epoch 4:  40%|████      | 8/20 [00:34<00:52,  4.34s/it, Epoch: 4, Iter: 8,Loss: 0.075,Avg.Loss: 0.128,L.Slope: NA]function [run] finished in 534 ms
+function [run] finished in 501 ms
+function [run] finished in 514 ms
+function [run] finished in 526 ms
+function [run] finished in 499 ms
+function [run] finished in 557 ms
+function [run] finished in 533 ms
+function [run] finished in 540 ms
+Training epoch 4:  40%|████      | 8/20 [00:39<00:52,  4.34s/it, Epoch: 4, Iter: 9,Loss: 0.295,Avg.Loss: 0.146,L.Slope: NA]Training epoch 4:  45%|████▌     | 9/20 [00:39<00:47,  4.34s/it, Epoch: 4, Iter: 9,Loss: 0.295,Avg.Loss: 0.146,L.Slope: NA]function [run] finished in 582 ms
+function [run] finished in 548 ms
+function [run] finished in 472 ms
+function [run] finished in 518 ms
+function [run] finished in 533 ms
+function [run] finished in 516 ms
+function [run] finished in 511 ms
+function [run] finished in 522 ms
+Training epoch 4:  45%|████▌     | 9/20 [00:43<00:47,  4.34s/it, Epoch: 4, Iter: 10,Loss: 0.295,Avg.Loss: 0.161,L.Slope: NA]Training epoch 4:  50%|█████     | 10/20 [00:43<00:43,  4.34s/it, Epoch: 4, Iter: 10,Loss: 0.295,Avg.Loss: 0.161,L.Slope: NA]function [run] finished in 516 ms
+function [run] finished in 530 ms
+function [run] finished in 529 ms
+function [run] finished in 523 ms
+function [run] finished in 520 ms
+function [run] finished in 524 ms
+function [run] finished in 550 ms
+function [run] finished in 540 ms
+Training epoch 4:  50%|█████     | 10/20 [00:47<00:43,  4.34s/it, Epoch: 4, Iter: 11,Loss: -0.347,Avg.Loss: 0.115,L.Slope: NA]Training epoch 4:  55%|█████▌    | 11/20 [00:47<00:39,  4.35s/it, Epoch: 4, Iter: 11,Loss: -0.347,Avg.Loss: 0.115,L.Slope: NA]function [run] finished in 529 ms
+function [run] finished in 501 ms
+function [run] finished in 495 ms
+function [run] finished in 509 ms
+function [run] finished in 509 ms
+function [run] finished in 583 ms
+function [run] finished in 519 ms
+function [run] finished in 519 ms
+Training epoch 4:  55%|█████▌    | 11/20 [00:52<00:39,  4.35s/it, Epoch: 4, Iter: 12,Loss: 0.305,Avg.Loss: 0.131,L.Slope: NA] Training epoch 4:  60%|██████    | 12/20 [00:52<00:34,  4.33s/it, Epoch: 4, Iter: 12,Loss: 0.305,Avg.Loss: 0.131,L.Slope: NA]function [run] finished in 527 ms
+function [run] finished in 548 ms
+function [run] finished in 498 ms
+function [run] finished in 507 ms
+function [run] finished in 518 ms
+function [run] finished in 527 ms
+function [run] finished in 501 ms
+function [run] finished in 523 ms
+Training epoch 4:  60%|██████    | 12/20 [00:56<00:34,  4.33s/it, Epoch: 4, Iter: 13,Loss: -0.339,Avg.Loss: 0.095,L.Slope: NA]Training epoch 4:  65%|██████▌   | 13/20 [00:56<00:30,  4.32s/it, Epoch: 4, Iter: 13,Loss: -0.339,Avg.Loss: 0.095,L.Slope: NA]function [run] finished in 538 ms
+function [run] finished in 495 ms
+function [run] finished in 488 ms
+function [run] finished in 505 ms
+function [run] finished in 573 ms
+function [run] finished in 528 ms
+function [run] finished in 512 ms
+function [run] finished in 524 ms
+Training epoch 4:  65%|██████▌   | 13/20 [01:00<00:30,  4.32s/it, Epoch: 4, Iter: 14,Loss: -0.270,Avg.Loss: 0.069,L.Slope: NA]Training epoch 4:  70%|███████   | 14/20 [01:00<00:25,  4.32s/it, Epoch: 4, Iter: 14,Loss: -0.270,Avg.Loss: 0.069,L.Slope: NA]function [run] finished in 525 ms
+function [run] finished in 536 ms
+function [run] finished in 533 ms
+function [run] finished in 604 ms
+function [run] finished in 489 ms
+function [run] finished in 500 ms
+function [run] finished in 528 ms
+function [run] finished in 499 ms
+Training epoch 4:  70%|███████   | 14/20 [01:05<00:25,  4.32s/it, Epoch: 4, Iter: 15,Loss: -0.185,Avg.Loss: 0.052,L.Slope: NA]Training epoch 4:  75%|███████▌  | 15/20 [01:05<00:21,  4.33s/it, Epoch: 4, Iter: 15,Loss: -0.185,Avg.Loss: 0.052,L.Slope: NA]function [run] finished in 517 ms
+function [run] finished in 525 ms
+function [run] finished in 556 ms
+function [run] finished in 537 ms
+function [run] finished in 537 ms
+function [run] finished in 525 ms
+function [run] finished in 513 ms
+function [run] finished in 525 ms
+Training epoch 4:  75%|███████▌  | 15/20 [01:09<00:21,  4.33s/it, Epoch: 4, Iter: 16,Loss: 0.275,Avg.Loss: 0.066,L.Slope: NA] Training epoch 4:  80%|████████  | 16/20 [01:09<00:17,  4.34s/it, Epoch: 4, Iter: 16,Loss: 0.275,Avg.Loss: 0.066,L.Slope: NA]function [run] finished in 559 ms
+function [run] finished in 573 ms
+function [run] finished in 541 ms
+function [run] finished in 535 ms
+function [run] finished in 515 ms
+function [run] finished in 499 ms
+function [run] finished in 546 ms
+function [run] finished in 519 ms
+Training epoch 4:  80%|████████  | 16/20 [01:13<00:17,  4.34s/it, Epoch: 4, Iter: 17,Loss: -0.045,Avg.Loss: 0.059,L.Slope: NA]Training epoch 4:  85%|████████▌ | 17/20 [01:13<00:13,  4.37s/it, Epoch: 4, Iter: 17,Loss: -0.045,Avg.Loss: 0.059,L.Slope: NA]function [run] finished in 516 ms
+function [run] finished in 500 ms
+function [run] finished in 518 ms
+function [run] finished in 530 ms
+function [run] finished in 521 ms
+function [run] finished in 506 ms
+function [run] finished in 528 ms
+function [run] finished in 481 ms
+Training epoch 4:  85%|████████▌ | 17/20 [01:18<00:13,  4.37s/it, Epoch: 4, Iter: 18,Loss: 0.009,Avg.Loss: 0.056,L.Slope: NA] Training epoch 4:  90%|█████████ | 18/20 [01:18<00:08,  4.33s/it, Epoch: 4, Iter: 18,Loss: 0.009,Avg.Loss: 0.056,L.Slope: NA]function [run] finished in 525 ms
+function [run] finished in 530 ms
+function [run] finished in 501 ms
+function [run] finished in 575 ms
+function [run] finished in 540 ms
+function [run] finished in 524 ms
+function [run] finished in 504 ms
+function [run] finished in 510 ms
+Training epoch 4:  90%|█████████ | 18/20 [01:22<00:08,  4.33s/it, Epoch: 4, Iter: 19,Loss: -0.411,Avg.Loss: 0.032,L.Slope: NA]Training epoch 4:  95%|█████████▌| 19/20 [01:22<00:04,  4.34s/it, Epoch: 4, Iter: 19,Loss: -0.411,Avg.Loss: 0.032,L.Slope: NA]function [run] finished in 515 ms
+function [run] finished in 505 ms
+function [run] finished in 512 ms
+function [run] finished in 503 ms
+function [run] finished in 509 ms
+function [run] finished in 499 ms
+function [run] finished in 528 ms
+function [run] finished in 528 ms
+Training epoch 4:  95%|█████████▌| 19/20 [01:26<00:04,  4.34s/it, Epoch: 4, Iter: 20,Loss: 0.265,Avg.Loss: 0.043,L.Slope: NA] Training epoch 4: 100%|██████████| 20/20 [01:26<00:00,  4.31s/it, Epoch: 4, Iter: 20,Loss: 0.265,Avg.Loss: 0.043,L.Slope: NA]Training epoch 4: 100%|██████████| 20/20 [01:26<00:00,  4.34s/it, Epoch: 4, Iter: 20,Loss: 0.265,Avg.Loss: 0.043,L.Slope: NA]
+Training epoch 5:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 615 ms
+function [run] finished in 497 ms
+function [run] finished in 513 ms
+function [run] finished in 515 ms
+function [run] finished in 516 ms
+function [run] finished in 514 ms
+function [run] finished in 540 ms
+function [run] finished in 559 ms
+Training epoch 5:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 5, Iter: 1,Loss: -0.343,Avg.Loss: -0.343,L.Slope: NA]Training epoch 5:   5%|▌         | 1/20 [00:04<01:23,  4.42s/it, Epoch: 5, Iter: 1,Loss: -0.343,Avg.Loss: -0.343,L.Slope: NA]function [run] finished in 538 ms
+function [run] finished in 535 ms
+function [run] finished in 527 ms
+function [run] finished in 552 ms
+function [run] finished in 546 ms
+function [run] finished in 527 ms
+function [run] finished in 502 ms
+function [run] finished in 531 ms
+Training epoch 5:   5%|▌         | 1/20 [00:08<01:23,  4.42s/it, Epoch: 5, Iter: 2,Loss: -0.194,Avg.Loss: -0.269,L.Slope: NA]Training epoch 5:  10%|█         | 2/20 [00:08<01:19,  4.41s/it, Epoch: 5, Iter: 2,Loss: -0.194,Avg.Loss: -0.269,L.Slope: NA]function [run] finished in 508 ms
+function [run] finished in 538 ms
+function [run] finished in 506 ms
+function [run] finished in 553 ms
+function [run] finished in 535 ms
+function [run] finished in 517 ms
+function [run] finished in 502 ms
+function [run] finished in 488 ms
+Training epoch 5:  10%|█         | 2/20 [00:13<01:19,  4.41s/it, Epoch: 5, Iter: 3,Loss: -0.256,Avg.Loss: -0.264,L.Slope: NA]Training epoch 5:  15%|█▌        | 3/20 [00:13<01:13,  4.35s/it, Epoch: 5, Iter: 3,Loss: -0.256,Avg.Loss: -0.264,L.Slope: NA]function [run] finished in 510 ms
+function [run] finished in 518 ms
+function [run] finished in 578 ms
+function [run] finished in 644 ms
+function [run] finished in 548 ms
+function [run] finished in 525 ms
+function [run] finished in 567 ms
+function [run] finished in 516 ms
+Training epoch 5:  15%|█▌        | 3/20 [00:17<01:13,  4.35s/it, Epoch: 5, Iter: 4,Loss: -0.123,Avg.Loss: -0.229,L.Slope: NA]Training epoch 5:  20%|██        | 4/20 [00:17<01:10,  4.43s/it, Epoch: 5, Iter: 4,Loss: -0.123,Avg.Loss: -0.229,L.Slope: NA]function [run] finished in 526 ms
+function [run] finished in 479 ms
+function [run] finished in 498 ms
+function [run] finished in 531 ms
+function [run] finished in 493 ms
+function [run] finished in 538 ms
+function [run] finished in 533 ms
+function [run] finished in 528 ms
+Training epoch 5:  20%|██        | 4/20 [00:21<01:10,  4.43s/it, Epoch: 5, Iter: 5,Loss: -0.246,Avg.Loss: -0.233,L.Slope: NA]Training epoch 5:  25%|██▌       | 5/20 [00:21<01:05,  4.38s/it, Epoch: 5, Iter: 5,Loss: -0.246,Avg.Loss: -0.233,L.Slope: NA]function [run] finished in 530 ms
+function [run] finished in 529 ms
+function [run] finished in 625 ms
+function [run] finished in 520 ms
+function [run] finished in 749 ms
+function [run] finished in 528 ms
+function [run] finished in 508 ms
+function [run] finished in 496 ms
+Training epoch 5:  25%|██▌       | 5/20 [00:26<01:05,  4.38s/it, Epoch: 5, Iter: 6,Loss: -0.264,Avg.Loss: -0.238,L.Slope: NA]Training epoch 5:  30%|███       | 6/20 [00:26<01:02,  4.46s/it, Epoch: 5, Iter: 6,Loss: -0.264,Avg.Loss: -0.238,L.Slope: NA]function [run] finished in 513 ms
+function [run] finished in 507 ms
+function [run] finished in 497 ms
+function [run] finished in 538 ms
+function [run] finished in 505 ms
+function [run] finished in 565 ms
+function [run] finished in 520 ms
+function [run] finished in 520 ms
+Training epoch 5:  30%|███       | 6/20 [00:30<01:02,  4.46s/it, Epoch: 5, Iter: 7,Loss: -0.479,Avg.Loss: -0.272,L.Slope: NA]Training epoch 5:  35%|███▌      | 7/20 [00:30<00:57,  4.41s/it, Epoch: 5, Iter: 7,Loss: -0.479,Avg.Loss: -0.272,L.Slope: NA]function [run] finished in 553 ms
+function [run] finished in 508 ms
+function [run] finished in 477 ms
+function [run] finished in 498 ms
+function [run] finished in 516 ms
+function [run] finished in 508 ms
+function [run] finished in 502 ms
+function [run] finished in 525 ms
+Training epoch 5:  35%|███▌      | 7/20 [00:35<00:57,  4.41s/it, Epoch: 5, Iter: 8,Loss: -0.587,Avg.Loss: -0.312,L.Slope: NA]Training epoch 5:  40%|████      | 8/20 [00:35<00:52,  4.36s/it, Epoch: 5, Iter: 8,Loss: -0.587,Avg.Loss: -0.312,L.Slope: NA]function [run] finished in 543 ms
+function [run] finished in 511 ms
+function [run] finished in 486 ms
+function [run] finished in 523 ms
+function [run] finished in 518 ms
+function [run] finished in 532 ms
+function [run] finished in 506 ms
+function [run] finished in 531 ms
+Training epoch 5:  40%|████      | 8/20 [00:39<00:52,  4.36s/it, Epoch: 5, Iter: 9,Loss: 0.135,Avg.Loss: -0.262,L.Slope: NA] Training epoch 5:  45%|████▌     | 9/20 [00:39<00:47,  4.34s/it, Epoch: 5, Iter: 9,Loss: 0.135,Avg.Loss: -0.262,L.Slope: NA]function [run] finished in 537 ms
+function [run] finished in 521 ms
+function [run] finished in 518 ms
+function [run] finished in 531 ms
+function [run] finished in 508 ms
+function [run] finished in 540 ms
+function [run] finished in 498 ms
+function [run] finished in 641 ms
+Training epoch 5:  45%|████▌     | 9/20 [00:43<00:47,  4.34s/it, Epoch: 5, Iter: 10,Loss: -0.606,Avg.Loss: -0.296,L.Slope: NA]Training epoch 5:  50%|█████     | 10/20 [00:43<00:43,  4.36s/it, Epoch: 5, Iter: 10,Loss: -0.606,Avg.Loss: -0.296,L.Slope: NA]function [run] finished in 484 ms
+function [run] finished in 535 ms
+function [run] finished in 541 ms
+function [run] finished in 509 ms
+function [run] finished in 512 ms
+function [run] finished in 605 ms
+function [run] finished in 610 ms
+function [run] finished in 493 ms
+Training epoch 5:  50%|█████     | 10/20 [00:48<00:43,  4.36s/it, Epoch: 5, Iter: 11,Loss: -0.105,Avg.Loss: -0.279,L.Slope: NA]Training epoch 5:  55%|█████▌    | 11/20 [00:48<00:39,  4.39s/it, Epoch: 5, Iter: 11,Loss: -0.105,Avg.Loss: -0.279,L.Slope: NA]function [run] finished in 539 ms
+function [run] finished in 542 ms
+function [run] finished in 518 ms
+function [run] finished in 508 ms
+function [run] finished in 509 ms
+function [run] finished in 518 ms
+function [run] finished in 554 ms
+function [run] finished in 511 ms
+Training epoch 5:  55%|█████▌    | 11/20 [00:52<00:39,  4.39s/it, Epoch: 5, Iter: 12,Loss: -0.475,Avg.Loss: -0.295,L.Slope: NA]Training epoch 5:  60%|██████    | 12/20 [00:52<00:34,  4.37s/it, Epoch: 5, Iter: 12,Loss: -0.475,Avg.Loss: -0.295,L.Slope: NA]function [run] finished in 531 ms
+function [run] finished in 526 ms
+function [run] finished in 537 ms
+function [run] finished in 515 ms
+function [run] finished in 508 ms
+function [run] finished in 524 ms
+function [run] finished in 493 ms
+function [run] finished in 494 ms
+Training epoch 5:  60%|██████    | 12/20 [00:56<00:34,  4.37s/it, Epoch: 5, Iter: 13,Loss: 0.074,Avg.Loss: -0.267,L.Slope: NA] Training epoch 5:  65%|██████▌   | 13/20 [00:56<00:30,  4.35s/it, Epoch: 5, Iter: 13,Loss: 0.074,Avg.Loss: -0.267,L.Slope: NA]function [run] finished in 486 ms
+function [run] finished in 503 ms
+function [run] finished in 518 ms
+function [run] finished in 512 ms
+function [run] finished in 546 ms
+function [run] finished in 544 ms
+function [run] finished in 563 ms
+function [run] finished in 537 ms
+Training epoch 5:  65%|██████▌   | 13/20 [01:01<00:30,  4.35s/it, Epoch: 5, Iter: 14,Loss: 0.257,Avg.Loss: -0.230,L.Slope: NA]Training epoch 5:  70%|███████   | 14/20 [01:01<00:26,  4.35s/it, Epoch: 5, Iter: 14,Loss: 0.257,Avg.Loss: -0.230,L.Slope: NA]function [run] finished in 570 ms
+function [run] finished in 509 ms
+function [run] finished in 497 ms
+function [run] finished in 514 ms
+function [run] finished in 470 ms
+function [run] finished in 501 ms
+function [run] finished in 521 ms
+function [run] finished in 512 ms
+Training epoch 5:  70%|███████   | 14/20 [01:05<00:26,  4.35s/it, Epoch: 5, Iter: 15,Loss: -0.087,Avg.Loss: -0.220,L.Slope: NA]Training epoch 5:  75%|███████▌  | 15/20 [01:05<00:21,  4.31s/it, Epoch: 5, Iter: 15,Loss: -0.087,Avg.Loss: -0.220,L.Slope: NA]function [run] finished in 515 ms
+function [run] finished in 527 ms
+function [run] finished in 528 ms
+function [run] finished in 529 ms
+function [run] finished in 523 ms
+function [run] finished in 526 ms
+function [run] finished in 535 ms
+function [run] finished in 527 ms
+Training epoch 5:  75%|███████▌  | 15/20 [01:09<00:21,  4.31s/it, Epoch: 5, Iter: 16,Loss: -0.172,Avg.Loss: -0.217,L.Slope: NA]Training epoch 5:  80%|████████  | 16/20 [01:09<00:17,  4.32s/it, Epoch: 5, Iter: 16,Loss: -0.172,Avg.Loss: -0.217,L.Slope: NA]function [run] finished in 523 ms
+function [run] finished in 525 ms
+function [run] finished in 505 ms
+function [run] finished in 543 ms
+function [run] finished in 538 ms
+function [run] finished in 539 ms
+function [run] finished in 507 ms
+function [run] finished in 515 ms
+Training epoch 5:  80%|████████  | 16/20 [01:14<00:17,  4.32s/it, Epoch: 5, Iter: 17,Loss: 0.236,Avg.Loss: -0.190,L.Slope: NA] Training epoch 5:  85%|████████▌ | 17/20 [01:14<00:12,  4.33s/it, Epoch: 5, Iter: 17,Loss: 0.236,Avg.Loss: -0.190,L.Slope: NA]function [run] finished in 561 ms
+function [run] finished in 511 ms
+function [run] finished in 520 ms
+function [run] finished in 525 ms
+function [run] finished in 531 ms
+function [run] finished in 515 ms
+function [run] finished in 524 ms
+function [run] finished in 543 ms
+Training epoch 5:  85%|████████▌ | 17/20 [01:18<00:12,  4.33s/it, Epoch: 5, Iter: 18,Loss: -0.184,Avg.Loss: -0.190,L.Slope: NA]Training epoch 5:  90%|█████████ | 18/20 [01:18<00:08,  4.34s/it, Epoch: 5, Iter: 18,Loss: -0.184,Avg.Loss: -0.190,L.Slope: NA]function [run] finished in 512 ms
+function [run] finished in 531 ms
+function [run] finished in 500 ms
+function [run] finished in 549 ms
+function [run] finished in 531 ms
+function [run] finished in 560 ms
+function [run] finished in 518 ms
+function [run] finished in 545 ms
+Training epoch 5:  90%|█████████ | 18/20 [01:22<00:08,  4.34s/it, Epoch: 5, Iter: 19,Loss: 0.091,Avg.Loss: -0.175,L.Slope: NA] Training epoch 5:  95%|█████████▌| 19/20 [01:22<00:04,  4.36s/it, Epoch: 5, Iter: 19,Loss: 0.091,Avg.Loss: -0.175,L.Slope: NA]function [run] finished in 555 ms
+function [run] finished in 508 ms
+function [run] finished in 572 ms
+function [run] finished in 474 ms
+function [run] finished in 505 ms
+function [run] finished in 555 ms
+function [run] finished in 499 ms
+function [run] finished in 505 ms
+Training epoch 5:  95%|█████████▌| 19/20 [01:27<00:04,  4.36s/it, Epoch: 5, Iter: 20,Loss: -0.095,Avg.Loss: -0.171,L.Slope: NA]Training epoch 5: 100%|██████████| 20/20 [01:27<00:00,  4.35s/it, Epoch: 5, Iter: 20,Loss: -0.095,Avg.Loss: -0.171,L.Slope: NA]Training epoch 5: 100%|██████████| 20/20 [01:27<00:00,  4.36s/it, Epoch: 5, Iter: 20,Loss: -0.095,Avg.Loss: -0.171,L.Slope: NA]
+Training epoch 6:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 574 ms
+function [run] finished in 511 ms
+function [run] finished in 492 ms
+function [run] finished in 525 ms
+function [run] finished in 493 ms
+function [run] finished in 527 ms
+function [run] finished in 525 ms
+function [run] finished in 517 ms
+Training epoch 6:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 6, Iter: 1,Loss: -0.065,Avg.Loss: -0.065,L.Slope: NA]Training epoch 6:   5%|▌         | 1/20 [00:04<01:21,  4.30s/it, Epoch: 6, Iter: 1,Loss: -0.065,Avg.Loss: -0.065,L.Slope: NA]function [run] finished in 503 ms
+function [run] finished in 513 ms
+function [run] finished in 518 ms
+function [run] finished in 527 ms
+function [run] finished in 521 ms
+function [run] finished in 618 ms
+function [run] finished in 511 ms
+function [run] finished in 530 ms
+Training epoch 6:   5%|▌         | 1/20 [00:08<01:21,  4.30s/it, Epoch: 6, Iter: 2,Loss: -0.319,Avg.Loss: -0.192,L.Slope: NA]Training epoch 6:  10%|█         | 2/20 [00:08<01:18,  4.35s/it, Epoch: 6, Iter: 2,Loss: -0.319,Avg.Loss: -0.192,L.Slope: NA]function [run] finished in 532 ms
+function [run] finished in 499 ms
+function [run] finished in 497 ms
+function [run] finished in 478 ms
+function [run] finished in 524 ms
+function [run] finished in 487 ms
+function [run] finished in 526 ms
+function [run] finished in 517 ms
+Training epoch 6:  10%|█         | 2/20 [00:12<01:18,  4.35s/it, Epoch: 6, Iter: 3,Loss: -0.059,Avg.Loss: -0.148,L.Slope: NA]Training epoch 6:  15%|█▌        | 3/20 [00:12<01:12,  4.29s/it, Epoch: 6, Iter: 3,Loss: -0.059,Avg.Loss: -0.148,L.Slope: NA]function [run] finished in 507 ms
+function [run] finished in 505 ms
+function [run] finished in 492 ms
+function [run] finished in 529 ms
+function [run] finished in 534 ms
+function [run] finished in 487 ms
+function [run] finished in 565 ms
+function [run] finished in 512 ms
+Training epoch 6:  15%|█▌        | 3/20 [00:17<01:12,  4.29s/it, Epoch: 6, Iter: 4,Loss: -0.474,Avg.Loss: -0.230,L.Slope: NA]Training epoch 6:  20%|██        | 4/20 [00:17<01:08,  4.28s/it, Epoch: 6, Iter: 4,Loss: -0.474,Avg.Loss: -0.230,L.Slope: NA]function [run] finished in 556 ms
+function [run] finished in 528 ms
+function [run] finished in 504 ms
+function [run] finished in 528 ms
+function [run] finished in 494 ms
+function [run] finished in 529 ms
+function [run] finished in 524 ms
+function [run] finished in 481 ms
+Training epoch 6:  20%|██        | 4/20 [00:21<01:08,  4.28s/it, Epoch: 6, Iter: 5,Loss: -0.455,Avg.Loss: -0.275,L.Slope: NA]Training epoch 6:  25%|██▌       | 5/20 [00:21<01:04,  4.28s/it, Epoch: 6, Iter: 5,Loss: -0.455,Avg.Loss: -0.275,L.Slope: NA]function [run] finished in 537 ms
+function [run] finished in 527 ms
+function [run] finished in 553 ms
+function [run] finished in 542 ms
+function [run] finished in 521 ms
+function [run] finished in 649 ms
+function [run] finished in 520 ms
+function [run] finished in 659 ms
+Training epoch 6:  25%|██▌       | 5/20 [00:26<01:04,  4.28s/it, Epoch: 6, Iter: 6,Loss: 0.062,Avg.Loss: -0.219,L.Slope: NA] Training epoch 6:  30%|███       | 6/20 [00:26<01:01,  4.41s/it, Epoch: 6, Iter: 6,Loss: 0.062,Avg.Loss: -0.219,L.Slope: NA]function [run] finished in 587 ms
+function [run] finished in 557 ms
+function [run] finished in 523 ms
+function [run] finished in 530 ms
+function [run] finished in 544 ms
+function [run] finished in 528 ms
+function [run] finished in 550 ms
+function [run] finished in 526 ms
+Training epoch 6:  30%|███       | 6/20 [00:30<01:01,  4.41s/it, Epoch: 6, Iter: 7,Loss: 0.094,Avg.Loss: -0.174,L.Slope: NA]Training epoch 6:  35%|███▌      | 7/20 [00:30<00:57,  4.44s/it, Epoch: 6, Iter: 7,Loss: 0.094,Avg.Loss: -0.174,L.Slope: NA]function [run] finished in 563 ms
+function [run] finished in 627 ms
+function [run] finished in 518 ms
+function [run] finished in 598 ms
+function [run] finished in 536 ms
+function [run] finished in 553 ms
+function [run] finished in 592 ms
+function [run] finished in 576 ms
+Training epoch 6:  35%|███▌      | 7/20 [00:35<00:57,  4.44s/it, Epoch: 6, Iter: 8,Loss: -0.090,Avg.Loss: -0.164,L.Slope: NA]Training epoch 6:  40%|████      | 8/20 [00:35<00:54,  4.53s/it, Epoch: 6, Iter: 8,Loss: -0.090,Avg.Loss: -0.164,L.Slope: NA]function [run] finished in 631 ms
+function [run] finished in 541 ms
+function [run] finished in 509 ms
+function [run] finished in 512 ms
+function [run] finished in 530 ms
+function [run] finished in 526 ms
+function [run] finished in 523 ms
+function [run] finished in 549 ms
+Training epoch 6:  40%|████      | 8/20 [00:39<00:54,  4.53s/it, Epoch: 6, Iter: 9,Loss: 0.012,Avg.Loss: -0.144,L.Slope: NA] Training epoch 6:  45%|████▌     | 9/20 [00:39<00:49,  4.51s/it, Epoch: 6, Iter: 9,Loss: 0.012,Avg.Loss: -0.144,L.Slope: NA]function [run] finished in 539 ms
+function [run] finished in 551 ms
+function [run] finished in 576 ms
+function [run] finished in 575 ms
+function [run] finished in 525 ms
+function [run] finished in 512 ms
+function [run] finished in 607 ms
+function [run] finished in 576 ms
+Training epoch 6:  45%|████▌     | 9/20 [00:44<00:49,  4.51s/it, Epoch: 6, Iter: 10,Loss: 0.482,Avg.Loss: -0.081,L.Slope: NA]Training epoch 6:  50%|█████     | 10/20 [00:44<00:45,  4.54s/it, Epoch: 6, Iter: 10,Loss: 0.482,Avg.Loss: -0.081,L.Slope: NA]function [run] finished in 543 ms
+function [run] finished in 501 ms
+function [run] finished in 505 ms
+function [run] finished in 511 ms
+function [run] finished in 582 ms
+function [run] finished in 625 ms
+function [run] finished in 540 ms
+function [run] finished in 542 ms
+Training epoch 6:  50%|█████     | 10/20 [00:48<00:45,  4.54s/it, Epoch: 6, Iter: 11,Loss: -0.161,Avg.Loss: -0.089,L.Slope: NA]Training epoch 6:  55%|█████▌    | 11/20 [00:48<00:40,  4.53s/it, Epoch: 6, Iter: 11,Loss: -0.161,Avg.Loss: -0.089,L.Slope: NA]function [run] finished in 526 ms
+function [run] finished in 499 ms
+function [run] finished in 530 ms
+function [run] finished in 547 ms
+function [run] finished in 552 ms
+function [run] finished in 516 ms
+function [run] finished in 574 ms
+function [run] finished in 503 ms
+Training epoch 6:  55%|█████▌    | 11/20 [00:53<00:40,  4.53s/it, Epoch: 6, Iter: 12,Loss: -0.160,Avg.Loss: -0.095,L.Slope: NA]Training epoch 6:  60%|██████    | 12/20 [00:53<00:35,  4.49s/it, Epoch: 6, Iter: 12,Loss: -0.160,Avg.Loss: -0.095,L.Slope: NA]function [run] finished in 533 ms
+function [run] finished in 531 ms
+function [run] finished in 518 ms
+function [run] finished in 505 ms
+function [run] finished in 522 ms
+function [run] finished in 579 ms
+function [run] finished in 532 ms
+function [run] finished in 536 ms
+Training epoch 6:  60%|██████    | 12/20 [00:57<00:35,  4.49s/it, Epoch: 6, Iter: 13,Loss: -0.197,Avg.Loss: -0.103,L.Slope: NA]Training epoch 6:  65%|██████▌   | 13/20 [00:57<00:31,  4.47s/it, Epoch: 6, Iter: 13,Loss: -0.197,Avg.Loss: -0.103,L.Slope: NA]function [run] finished in 553 ms
+function [run] finished in 528 ms
+function [run] finished in 511 ms
+function [run] finished in 535 ms
+function [run] finished in 528 ms
+function [run] finished in 489 ms
+function [run] finished in 552 ms
+function [run] finished in 509 ms
+Training epoch 6:  65%|██████▌   | 13/20 [01:02<00:31,  4.47s/it, Epoch: 6, Iter: 14,Loss: 0.440,Avg.Loss: -0.064,L.Slope: NA] Training epoch 6:  70%|███████   | 14/20 [01:02<00:26,  4.43s/it, Epoch: 6, Iter: 14,Loss: 0.440,Avg.Loss: -0.064,L.Slope: NA]function [run] finished in 511 ms
+function [run] finished in 541 ms
+function [run] finished in 542 ms
+function [run] finished in 564 ms
+function [run] finished in 523 ms
+function [run] finished in 498 ms
+function [run] finished in 531 ms
+function [run] finished in 543 ms
+Training epoch 6:  70%|███████   | 14/20 [01:06<00:26,  4.43s/it, Epoch: 6, Iter: 15,Loss: -0.034,Avg.Loss: -0.062,L.Slope: NA]Training epoch 6:  75%|███████▌  | 15/20 [01:06<00:22,  4.42s/it, Epoch: 6, Iter: 15,Loss: -0.034,Avg.Loss: -0.062,L.Slope: NA]function [run] finished in 594 ms
+function [run] finished in 532 ms
+function [run] finished in 597 ms
+function [run] finished in 525 ms
+function [run] finished in 575 ms
+function [run] finished in 557 ms
+function [run] finished in 494 ms
+function [run] finished in 604 ms
+Training epoch 6:  75%|███████▌  | 15/20 [01:11<00:22,  4.42s/it, Epoch: 6, Iter: 16,Loss: -0.045,Avg.Loss: -0.061,L.Slope: NA]Training epoch 6:  80%|████████  | 16/20 [01:11<00:17,  4.48s/it, Epoch: 6, Iter: 16,Loss: -0.045,Avg.Loss: -0.061,L.Slope: NA]function [run] finished in 506 ms
+function [run] finished in 544 ms
+function [run] finished in 513 ms
+function [run] finished in 522 ms
+function [run] finished in 526 ms
+function [run] finished in 553 ms
+function [run] finished in 483 ms
+function [run] finished in 554 ms
+Training epoch 6:  80%|████████  | 16/20 [01:15<00:17,  4.48s/it, Epoch: 6, Iter: 17,Loss: -0.164,Avg.Loss: -0.067,L.Slope: NA]Training epoch 6:  85%|████████▌ | 17/20 [01:15<00:13,  4.45s/it, Epoch: 6, Iter: 17,Loss: -0.164,Avg.Loss: -0.067,L.Slope: NA]function [run] finished in 585 ms
+function [run] finished in 568 ms
+function [run] finished in 567 ms
+function [run] finished in 515 ms
+function [run] finished in 543 ms
+function [run] finished in 590 ms
+function [run] finished in 548 ms
+function [run] finished in 506 ms
+Training epoch 6:  85%|████████▌ | 17/20 [01:20<00:13,  4.45s/it, Epoch: 6, Iter: 18,Loss: 0.082,Avg.Loss: -0.059,L.Slope: NA] Training epoch 6:  90%|█████████ | 18/20 [01:20<00:08,  4.48s/it, Epoch: 6, Iter: 18,Loss: 0.082,Avg.Loss: -0.059,L.Slope: NA]function [run] finished in 559 ms
+function [run] finished in 502 ms
+function [run] finished in 546 ms
+function [run] finished in 543 ms
+function [run] finished in 527 ms
+function [run] finished in 518 ms
+function [run] finished in 566 ms
+function [run] finished in 561 ms
+Training epoch 6:  90%|█████████ | 18/20 [01:24<00:08,  4.48s/it, Epoch: 6, Iter: 19,Loss: 0.116,Avg.Loss: -0.049,L.Slope: NA]Training epoch 6:  95%|█████████▌| 19/20 [01:24<00:04,  4.48s/it, Epoch: 6, Iter: 19,Loss: 0.116,Avg.Loss: -0.049,L.Slope: NA]function [run] finished in 542 ms
+function [run] finished in 535 ms
+function [run] finished in 569 ms
+function [run] finished in 512 ms
+function [run] finished in 529 ms
+function [run] finished in 549 ms
+function [run] finished in 556 ms
+function [run] finished in 525 ms
+Training epoch 6:  95%|█████████▌| 19/20 [01:28<00:04,  4.48s/it, Epoch: 6, Iter: 20,Loss: -0.069,Avg.Loss: -0.050,L.Slope: NA]Training epoch 6: 100%|██████████| 20/20 [01:28<00:00,  4.47s/it, Epoch: 6, Iter: 20,Loss: -0.069,Avg.Loss: -0.050,L.Slope: NA]Training epoch 6: 100%|██████████| 20/20 [01:28<00:00,  4.45s/it, Epoch: 6, Iter: 20,Loss: -0.069,Avg.Loss: -0.050,L.Slope: NA]
+Training epoch 7:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 528 ms
+function [run] finished in 518 ms
+function [run] finished in 548 ms
+function [run] finished in 539 ms
+function [run] finished in 582 ms
+function [run] finished in 544 ms
+function [run] finished in 563 ms
+function [run] finished in 543 ms
+Training epoch 7:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 7, Iter: 1,Loss: 0.169,Avg.Loss: 0.169,L.Slope: NA]Training epoch 7:   5%|▌         | 1/20 [00:04<01:25,  4.50s/it, Epoch: 7, Iter: 1,Loss: 0.169,Avg.Loss: 0.169,L.Slope: NA]function [run] finished in 546 ms
+function [run] finished in 599 ms
+function [run] finished in 575 ms
+function [run] finished in 571 ms
+function [run] finished in 567 ms
+function [run] finished in 550 ms
+function [run] finished in 558 ms
+function [run] finished in 580 ms
+Training epoch 7:   5%|▌         | 1/20 [00:09<01:25,  4.50s/it, Epoch: 7, Iter: 2,Loss: -0.467,Avg.Loss: -0.149,L.Slope: NA]Training epoch 7:  10%|█         | 2/20 [00:09<01:23,  4.62s/it, Epoch: 7, Iter: 2,Loss: -0.467,Avg.Loss: -0.149,L.Slope: NA]function [run] finished in 573 ms
+function [run] finished in 521 ms
+function [run] finished in 510 ms
+function [run] finished in 567 ms
+function [run] finished in 529 ms
+function [run] finished in 522 ms
+function [run] finished in 596 ms
+function [run] finished in 737 ms
+Training epoch 7:  10%|█         | 2/20 [00:13<01:23,  4.62s/it, Epoch: 7, Iter: 3,Loss: 0.183,Avg.Loss: -0.038,L.Slope: NA] Training epoch 7:  15%|█▌        | 3/20 [00:13<01:19,  4.66s/it, Epoch: 7, Iter: 3,Loss: 0.183,Avg.Loss: -0.038,L.Slope: NA]function [run] finished in 766 ms
+function [run] finished in 490 ms
+function [run] finished in 534 ms
+function [run] finished in 499 ms
+function [run] finished in 504 ms
+function [run] finished in 546 ms
+function [run] finished in 541 ms
+function [run] finished in 715 ms
+Training epoch 7:  15%|█▌        | 3/20 [00:18<01:19,  4.66s/it, Epoch: 7, Iter: 4,Loss: -0.526,Avg.Loss: -0.160,L.Slope: NA]Training epoch 7:  20%|██        | 4/20 [00:18<01:15,  4.69s/it, Epoch: 7, Iter: 4,Loss: -0.526,Avg.Loss: -0.160,L.Slope: NA]function [run] finished in 665 ms
+function [run] finished in 554 ms
+function [run] finished in 544 ms
+function [run] finished in 508 ms
+function [run] finished in 518 ms
+function [run] finished in 516 ms
+function [run] finished in 525 ms
+function [run] finished in 605 ms
+Training epoch 7:  20%|██        | 4/20 [00:23<01:15,  4.69s/it, Epoch: 7, Iter: 5,Loss: 0.068,Avg.Loss: -0.115,L.Slope: NA] Training epoch 7:  25%|██▌       | 5/20 [00:23<01:09,  4.65s/it, Epoch: 7, Iter: 5,Loss: 0.068,Avg.Loss: -0.115,L.Slope: NA]function [run] finished in 652 ms
+function [run] finished in 660 ms
+function [run] finished in 869 ms
+function [run] finished in 635 ms
+function [run] finished in 581 ms
+function [run] finished in 686 ms
+function [run] finished in 604 ms
+function [run] finished in 964 ms
+Training epoch 7:  25%|██▌       | 5/20 [00:29<01:09,  4.65s/it, Epoch: 7, Iter: 6,Loss: -0.126,Avg.Loss: -0.116,L.Slope: NA]Training epoch 7:  30%|███       | 6/20 [00:29<01:10,  5.04s/it, Epoch: 7, Iter: 6,Loss: -0.126,Avg.Loss: -0.116,L.Slope: NA]function [run] finished in 923 ms
+function [run] finished in 682 ms
+function [run] finished in 494 ms
+function [run] finished in 568 ms
+function [run] finished in 597 ms
+function [run] finished in 539 ms
+function [run] finished in 513 ms
+function [run] finished in 514 ms
+Training epoch 7:  30%|███       | 6/20 [00:34<01:10,  5.04s/it, Epoch: 7, Iter: 7,Loss: -0.276,Avg.Loss: -0.139,L.Slope: NA]Training epoch 7:  35%|███▌      | 7/20 [00:34<01:05,  5.03s/it, Epoch: 7, Iter: 7,Loss: -0.276,Avg.Loss: -0.139,L.Slope: NA]function [run] finished in 545 ms
+function [run] finished in 578 ms
+function [run] finished in 519 ms
+function [run] finished in 512 ms
+function [run] finished in 562 ms
+function [run] finished in 553 ms
+function [run] finished in 511 ms
+function [run] finished in 533 ms
+Training epoch 7:  35%|███▌      | 7/20 [00:38<01:05,  5.03s/it, Epoch: 7, Iter: 8,Loss: 0.149,Avg.Loss: -0.103,L.Slope: NA] Training epoch 7:  40%|████      | 8/20 [00:38<00:58,  4.85s/it, Epoch: 7, Iter: 8,Loss: 0.149,Avg.Loss: -0.103,L.Slope: NA]function [run] finished in 527 ms
+function [run] finished in 556 ms
+function [run] finished in 511 ms
+function [run] finished in 518 ms
+function [run] finished in 552 ms
+function [run] finished in 505 ms
+function [run] finished in 582 ms
+function [run] finished in 596 ms
+Training epoch 7:  40%|████      | 8/20 [00:43<00:58,  4.85s/it, Epoch: 7, Iter: 9,Loss: -0.433,Avg.Loss: -0.140,L.Slope: NA]Training epoch 7:  45%|████▌     | 9/20 [00:43<00:52,  4.74s/it, Epoch: 7, Iter: 9,Loss: -0.433,Avg.Loss: -0.140,L.Slope: NA]function [run] finished in 487 ms
+function [run] finished in 590 ms
+function [run] finished in 596 ms
+function [run] finished in 533 ms
+function [run] finished in 496 ms
+function [run] finished in 539 ms
+function [run] finished in 606 ms
+function [run] finished in 522 ms
+Training epoch 7:  45%|████▌     | 9/20 [00:47<00:52,  4.74s/it, Epoch: 7, Iter: 10,Loss: -0.257,Avg.Loss: -0.151,L.Slope: NA]Training epoch 7:  50%|█████     | 10/20 [00:47<00:46,  4.67s/it, Epoch: 7, Iter: 10,Loss: -0.257,Avg.Loss: -0.151,L.Slope: NA]function [run] finished in 549 ms
+function [run] finished in 502 ms
+function [run] finished in 587 ms
+function [run] finished in 517 ms
+function [run] finished in 561 ms
+function [run] finished in 539 ms
+function [run] finished in 547 ms
+function [run] finished in 495 ms
+Training epoch 7:  50%|█████     | 10/20 [00:51<00:46,  4.67s/it, Epoch: 7, Iter: 11,Loss: -0.314,Avg.Loss: -0.166,L.Slope: NA]Training epoch 7:  55%|█████▌    | 11/20 [00:51<00:41,  4.60s/it, Epoch: 7, Iter: 11,Loss: -0.314,Avg.Loss: -0.166,L.Slope: NA]function [run] finished in 560 ms
+function [run] finished in 528 ms
+function [run] finished in 492 ms
+function [run] finished in 543 ms
+function [run] finished in 506 ms
+function [run] finished in 548 ms
+function [run] finished in 513 ms
+function [run] finished in 551 ms
+Training epoch 7:  55%|█████▌    | 11/20 [00:56<00:41,  4.60s/it, Epoch: 7, Iter: 12,Loss: -0.235,Avg.Loss: -0.172,L.Slope: NA]Training epoch 7:  60%|██████    | 12/20 [00:56<00:36,  4.54s/it, Epoch: 7, Iter: 12,Loss: -0.235,Avg.Loss: -0.172,L.Slope: NA]function [run] finished in 620 ms
+function [run] finished in 514 ms
+function [run] finished in 508 ms
+function [run] finished in 513 ms
+function [run] finished in 552 ms
+function [run] finished in 514 ms
+function [run] finished in 584 ms
+function [run] finished in 548 ms
+Training epoch 7:  60%|██████    | 12/20 [01:00<00:36,  4.54s/it, Epoch: 7, Iter: 13,Loss: -0.358,Avg.Loss: -0.186,L.Slope: NA]Training epoch 7:  65%|██████▌   | 13/20 [01:00<00:31,  4.52s/it, Epoch: 7, Iter: 13,Loss: -0.358,Avg.Loss: -0.186,L.Slope: NA]function [run] finished in 548 ms
+function [run] finished in 580 ms
+function [run] finished in 507 ms
+function [run] finished in 501 ms
+function [run] finished in 518 ms
+function [run] finished in 514 ms
+function [run] finished in 569 ms
+function [run] finished in 518 ms
+Training epoch 7:  65%|██████▌   | 13/20 [01:05<00:31,  4.52s/it, Epoch: 7, Iter: 14,Loss: -0.486,Avg.Loss: -0.208,L.Slope: NA]Training epoch 7:  70%|███████   | 14/20 [01:05<00:26,  4.49s/it, Epoch: 7, Iter: 14,Loss: -0.486,Avg.Loss: -0.208,L.Slope: NA]function [run] finished in 529 ms
+function [run] finished in 543 ms
+function [run] finished in 549 ms
+function [run] finished in 510 ms
+function [run] finished in 521 ms
+function [run] finished in 559 ms
+function [run] finished in 500 ms
+function [run] finished in 492 ms
+Training epoch 7:  70%|███████   | 14/20 [01:09<00:26,  4.49s/it, Epoch: 7, Iter: 15,Loss: -0.304,Avg.Loss: -0.214,L.Slope: NA]Training epoch 7:  75%|███████▌  | 15/20 [01:09<00:22,  4.45s/it, Epoch: 7, Iter: 15,Loss: -0.304,Avg.Loss: -0.214,L.Slope: NA]function [run] finished in 543 ms
+function [run] finished in 510 ms
+function [run] finished in 529 ms
+function [run] finished in 542 ms
+function [run] finished in 520 ms
+function [run] finished in 576 ms
+function [run] finished in 497 ms
+function [run] finished in 549 ms
+Training epoch 7:  75%|███████▌  | 15/20 [01:14<00:22,  4.45s/it, Epoch: 7, Iter: 16,Loss: -0.283,Avg.Loss: -0.218,L.Slope: NA]Training epoch 7:  80%|████████  | 16/20 [01:14<00:17,  4.44s/it, Epoch: 7, Iter: 16,Loss: -0.283,Avg.Loss: -0.218,L.Slope: NA]function [run] finished in 529 ms
+function [run] finished in 490 ms
+function [run] finished in 499 ms
+function [run] finished in 513 ms
+function [run] finished in 514 ms
+function [run] finished in 508 ms
+function [run] finished in 521 ms
+function [run] finished in 523 ms
+Training epoch 7:  80%|████████  | 16/20 [01:18<00:17,  4.44s/it, Epoch: 7, Iter: 17,Loss: -0.212,Avg.Loss: -0.218,L.Slope: NA]Training epoch 7:  85%|████████▌ | 17/20 [01:18<00:13,  4.38s/it, Epoch: 7, Iter: 17,Loss: -0.212,Avg.Loss: -0.218,L.Slope: NA]function [run] finished in 676 ms
+function [run] finished in 548 ms
+function [run] finished in 535 ms
+function [run] finished in 502 ms
+function [run] finished in 532 ms
+function [run] finished in 539 ms
+function [run] finished in 513 ms
+function [run] finished in 549 ms
+Training epoch 7:  85%|████████▌ | 17/20 [01:22<00:13,  4.38s/it, Epoch: 7, Iter: 18,Loss: -0.740,Avg.Loss: -0.247,L.Slope: NA]Training epoch 7:  90%|█████████ | 18/20 [01:22<00:08,  4.43s/it, Epoch: 7, Iter: 18,Loss: -0.740,Avg.Loss: -0.247,L.Slope: NA]function [run] finished in 532 ms
+function [run] finished in 507 ms
+function [run] finished in 562 ms
+function [run] finished in 501 ms
+function [run] finished in 556 ms
+function [run] finished in 524 ms
+function [run] finished in 518 ms
+function [run] finished in 533 ms
+Training epoch 7:  90%|█████████ | 18/20 [01:27<00:08,  4.43s/it, Epoch: 7, Iter: 19,Loss: 0.223,Avg.Loss: -0.222,L.Slope: NA] Training epoch 7:  95%|█████████▌| 19/20 [01:27<00:04,  4.41s/it, Epoch: 7, Iter: 19,Loss: 0.223,Avg.Loss: -0.222,L.Slope: NA]function [run] finished in 663 ms
+function [run] finished in 586 ms
+function [run] finished in 528 ms
+function [run] finished in 538 ms
+function [run] finished in 514 ms
+function [run] finished in 526 ms
+function [run] finished in 522 ms
+function [run] finished in 572 ms
+Training epoch 7:  95%|█████████▌| 19/20 [01:31<00:04,  4.41s/it, Epoch: 7, Iter: 20,Loss: -0.331,Avg.Loss: -0.228,L.Slope: NA]Training epoch 7: 100%|██████████| 20/20 [01:31<00:00,  4.46s/it, Epoch: 7, Iter: 20,Loss: -0.331,Avg.Loss: -0.228,L.Slope: NA]Training epoch 7: 100%|██████████| 20/20 [01:31<00:00,  4.59s/it, Epoch: 7, Iter: 20,Loss: -0.331,Avg.Loss: -0.228,L.Slope: NA]
+Training epoch 8:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 516 ms
+function [run] finished in 560 ms
+function [run] finished in 497 ms
+function [run] finished in 526 ms
+function [run] finished in 518 ms
+function [run] finished in 540 ms
+function [run] finished in 488 ms
+function [run] finished in 531 ms
+Training epoch 8:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 8, Iter: 1,Loss: -0.578,Avg.Loss: -0.578,L.Slope: NA]Training epoch 8:   5%|▌         | 1/20 [00:04<01:22,  4.32s/it, Epoch: 8, Iter: 1,Loss: -0.578,Avg.Loss: -0.578,L.Slope: NA]function [run] finished in 558 ms
+function [run] finished in 600 ms
+function [run] finished in 499 ms
+function [run] finished in 514 ms
+function [run] finished in 507 ms
+function [run] finished in 519 ms
+function [run] finished in 514 ms
+function [run] finished in 533 ms
+Training epoch 8:   5%|▌         | 1/20 [00:08<01:22,  4.32s/it, Epoch: 8, Iter: 2,Loss: -0.423,Avg.Loss: -0.500,L.Slope: NA]Training epoch 8:  10%|█         | 2/20 [00:08<01:18,  4.36s/it, Epoch: 8, Iter: 2,Loss: -0.423,Avg.Loss: -0.500,L.Slope: NA]function [run] finished in 495 ms
+function [run] finished in 535 ms
+function [run] finished in 549 ms
+function [run] finished in 503 ms
+function [run] finished in 537 ms
+function [run] finished in 536 ms
+function [run] finished in 570 ms
+function [run] finished in 530 ms
+Training epoch 8:  10%|█         | 2/20 [00:13<01:18,  4.36s/it, Epoch: 8, Iter: 3,Loss: 0.278,Avg.Loss: -0.241,L.Slope: NA] Training epoch 8:  15%|█▌        | 3/20 [00:13<01:14,  4.39s/it, Epoch: 8, Iter: 3,Loss: 0.278,Avg.Loss: -0.241,L.Slope: NA]function [run] finished in 534 ms
+function [run] finished in 561 ms
+function [run] finished in 510 ms
+function [run] finished in 569 ms
+function [run] finished in 518 ms
+function [run] finished in 528 ms
+function [run] finished in 583 ms
+function [run] finished in 542 ms
+Training epoch 8:  15%|█▌        | 3/20 [00:17<01:14,  4.39s/it, Epoch: 8, Iter: 4,Loss: -0.012,Avg.Loss: -0.184,L.Slope: NA]Training epoch 8:  20%|██        | 4/20 [00:17<01:10,  4.42s/it, Epoch: 8, Iter: 4,Loss: -0.012,Avg.Loss: -0.184,L.Slope: NA]function [run] finished in 558 ms
+function [run] finished in 508 ms
+function [run] finished in 537 ms
+function [run] finished in 533 ms
+function [run] finished in 565 ms
+function [run] finished in 533 ms
+function [run] finished in 518 ms
+function [run] finished in 524 ms
+Training epoch 8:  20%|██        | 4/20 [00:22<01:10,  4.42s/it, Epoch: 8, Iter: 5,Loss: -0.586,Avg.Loss: -0.264,L.Slope: NA]Training epoch 8:  25%|██▌       | 5/20 [00:22<01:06,  4.43s/it, Epoch: 8, Iter: 5,Loss: -0.586,Avg.Loss: -0.264,L.Slope: NA]function [run] finished in 508 ms
+function [run] finished in 503 ms
+function [run] finished in 536 ms
+function [run] finished in 523 ms
+function [run] finished in 529 ms
+function [run] finished in 512 ms
+function [run] finished in 541 ms
+function [run] finished in 525 ms
+Training epoch 8:  25%|██▌       | 5/20 [00:26<01:06,  4.43s/it, Epoch: 8, Iter: 6,Loss: -0.382,Avg.Loss: -0.284,L.Slope: NA]Training epoch 8:  30%|███       | 6/20 [00:26<01:01,  4.39s/it, Epoch: 8, Iter: 6,Loss: -0.382,Avg.Loss: -0.284,L.Slope: NA]function [run] finished in 532 ms
+function [run] finished in 503 ms
+function [run] finished in 570 ms
+function [run] finished in 556 ms
+function [run] finished in 542 ms
+function [run] finished in 538 ms
+function [run] finished in 525 ms
+function [run] finished in 604 ms
+Training epoch 8:  30%|███       | 6/20 [00:30<01:01,  4.39s/it, Epoch: 8, Iter: 7,Loss: -0.054,Avg.Loss: -0.251,L.Slope: NA]Training epoch 8:  35%|███▌      | 7/20 [00:30<00:57,  4.43s/it, Epoch: 8, Iter: 7,Loss: -0.054,Avg.Loss: -0.251,L.Slope: NA]function [run] finished in 541 ms
+function [run] finished in 511 ms
+function [run] finished in 520 ms
+function [run] finished in 524 ms
+function [run] finished in 513 ms
+function [run] finished in 602 ms
+function [run] finished in 528 ms
+function [run] finished in 504 ms
+Training epoch 8:  35%|███▌      | 7/20 [00:35<00:57,  4.43s/it, Epoch: 8, Iter: 8,Loss: -0.383,Avg.Loss: -0.268,L.Slope: NA]Training epoch 8:  40%|████      | 8/20 [00:35<00:52,  4.41s/it, Epoch: 8, Iter: 8,Loss: -0.383,Avg.Loss: -0.268,L.Slope: NA]function [run] finished in 568 ms
+function [run] finished in 555 ms
+function [run] finished in 490 ms
+function [run] finished in 527 ms
+function [run] finished in 539 ms
+function [run] finished in 517 ms
+function [run] finished in 529 ms
+function [run] finished in 513 ms
+Training epoch 8:  40%|████      | 8/20 [00:39<00:52,  4.41s/it, Epoch: 8, Iter: 9,Loss: -0.087,Avg.Loss: -0.248,L.Slope: NA]Training epoch 8:  45%|████▌     | 9/20 [00:39<00:48,  4.41s/it, Epoch: 8, Iter: 9,Loss: -0.087,Avg.Loss: -0.248,L.Slope: NA]function [run] finished in 539 ms
+function [run] finished in 512 ms
+function [run] finished in 504 ms
+function [run] finished in 568 ms
+function [run] finished in 527 ms
+function [run] finished in 529 ms
+function [run] finished in 557 ms
+function [run] finished in 524 ms
+Training epoch 8:  45%|████▌     | 9/20 [00:44<00:48,  4.41s/it, Epoch: 8, Iter: 10,Loss: 0.687,Avg.Loss: -0.154,L.Slope: NA]Training epoch 8:  50%|█████     | 10/20 [00:44<00:44,  4.41s/it, Epoch: 8, Iter: 10,Loss: 0.687,Avg.Loss: -0.154,L.Slope: NA]function [run] finished in 544 ms
+function [run] finished in 498 ms
+function [run] finished in 560 ms
+function [run] finished in 506 ms
+function [run] finished in 502 ms
+function [run] finished in 527 ms
+function [run] finished in 518 ms
+function [run] finished in 505 ms
+Training epoch 8:  50%|█████     | 10/20 [00:48<00:44,  4.41s/it, Epoch: 8, Iter: 11,Loss: -0.336,Avg.Loss: -0.171,L.Slope: NA]Training epoch 8:  55%|█████▌    | 11/20 [00:48<00:39,  4.37s/it, Epoch: 8, Iter: 11,Loss: -0.336,Avg.Loss: -0.171,L.Slope: NA]function [run] finished in 516 ms
+function [run] finished in 531 ms
+function [run] finished in 512 ms
+function [run] finished in 509 ms
+function [run] finished in 511 ms
+function [run] finished in 545 ms
+function [run] finished in 518 ms
+function [run] finished in 553 ms
+Training epoch 8:  55%|█████▌    | 11/20 [00:52<00:39,  4.37s/it, Epoch: 8, Iter: 12,Loss: 0.920,Avg.Loss: -0.080,L.Slope: NA] Training epoch 8:  60%|██████    | 12/20 [00:52<00:34,  4.37s/it, Epoch: 8, Iter: 12,Loss: 0.920,Avg.Loss: -0.080,L.Slope: NA]function [run] finished in 632 ms
+function [run] finished in 489 ms
+function [run] finished in 536 ms
+function [run] finished in 545 ms
+function [run] finished in 503 ms
+function [run] finished in 512 ms
+function [run] finished in 560 ms
+function [run] finished in 499 ms
+Training epoch 8:  60%|██████    | 12/20 [00:57<00:34,  4.37s/it, Epoch: 8, Iter: 13,Loss: -0.090,Avg.Loss: -0.081,L.Slope: NA]Training epoch 8:  65%|██████▌   | 13/20 [00:57<00:30,  4.38s/it, Epoch: 8, Iter: 13,Loss: -0.090,Avg.Loss: -0.081,L.Slope: NA]function [run] finished in 493 ms
+function [run] finished in 532 ms
+function [run] finished in 559 ms
+function [run] finished in 496 ms
+function [run] finished in 531 ms
+function [run] finished in 587 ms
+function [run] finished in 538 ms
+function [run] finished in 514 ms
+Training epoch 8:  65%|██████▌   | 13/20 [01:01<00:30,  4.38s/it, Epoch: 8, Iter: 14,Loss: -0.069,Avg.Loss: -0.080,L.Slope: NA]Training epoch 8:  70%|███████   | 14/20 [01:01<00:26,  4.39s/it, Epoch: 8, Iter: 14,Loss: -0.069,Avg.Loss: -0.080,L.Slope: NA]function [run] finished in 552 ms
+function [run] finished in 623 ms
+function [run] finished in 536 ms
+function [run] finished in 521 ms
+function [run] finished in 528 ms
+function [run] finished in 629 ms
+function [run] finished in 553 ms
+function [run] finished in 532 ms
+Training epoch 8:  70%|███████   | 14/20 [01:06<00:26,  4.39s/it, Epoch: 8, Iter: 15,Loss: 0.566,Avg.Loss: -0.037,L.Slope: NA] Training epoch 8:  75%|███████▌  | 15/20 [01:06<00:22,  4.46s/it, Epoch: 8, Iter: 15,Loss: 0.566,Avg.Loss: -0.037,L.Slope: NA]function [run] finished in 587 ms
+function [run] finished in 510 ms
+function [run] finished in 516 ms
+function [run] finished in 619 ms
+function [run] finished in 555 ms
+function [run] finished in 523 ms
+function [run] finished in 545 ms
+function [run] finished in 506 ms
+Training epoch 8:  75%|███████▌  | 15/20 [01:10<00:22,  4.46s/it, Epoch: 8, Iter: 16,Loss: -0.009,Avg.Loss: -0.035,L.Slope: NA]Training epoch 8:  80%|████████  | 16/20 [01:10<00:17,  4.48s/it, Epoch: 8, Iter: 16,Loss: -0.009,Avg.Loss: -0.035,L.Slope: NA]function [run] finished in 533 ms
+function [run] finished in 551 ms
+function [run] finished in 529 ms
+function [run] finished in 536 ms
+function [run] finished in 511 ms
+function [run] finished in 513 ms
+function [run] finished in 513 ms
+function [run] finished in 586 ms
+Training epoch 8:  80%|████████  | 16/20 [01:15<00:17,  4.48s/it, Epoch: 8, Iter: 17,Loss: -0.281,Avg.Loss: -0.049,L.Slope: NA]Training epoch 8:  85%|████████▌ | 17/20 [01:15<00:13,  4.47s/it, Epoch: 8, Iter: 17,Loss: -0.281,Avg.Loss: -0.049,L.Slope: NA]function [run] finished in 519 ms
+function [run] finished in 534 ms
+function [run] finished in 553 ms
+function [run] finished in 540 ms
+function [run] finished in 564 ms
+function [run] finished in 528 ms
+function [run] finished in 505 ms
+function [run] finished in 490 ms
+Training epoch 8:  85%|████████▌ | 17/20 [01:19<00:13,  4.47s/it, Epoch: 8, Iter: 18,Loss: 0.621,Avg.Loss: -0.012,L.Slope: NA] Training epoch 8:  90%|█████████ | 18/20 [01:19<00:08,  4.44s/it, Epoch: 8, Iter: 18,Loss: 0.621,Avg.Loss: -0.012,L.Slope: NA]function [run] finished in 535 ms
+function [run] finished in 486 ms
+function [run] finished in 522 ms
+function [run] finished in 493 ms
+function [run] finished in 552 ms
+function [run] finished in 568 ms
+function [run] finished in 609 ms
+function [run] finished in 519 ms
+Training epoch 8:  90%|█████████ | 18/20 [01:23<00:08,  4.44s/it, Epoch: 8, Iter: 19,Loss: 0.128,Avg.Loss: -0.005,L.Slope: NA]Training epoch 8:  95%|█████████▌| 19/20 [01:23<00:04,  4.44s/it, Epoch: 8, Iter: 19,Loss: 0.128,Avg.Loss: -0.005,L.Slope: NA]function [run] finished in 581 ms
+function [run] finished in 538 ms
+function [run] finished in 522 ms
+function [run] finished in 513 ms
+function [run] finished in 592 ms
+function [run] finished in 726 ms
+function [run] finished in 607 ms
+function [run] finished in 495 ms
+Training epoch 8:  95%|█████████▌| 19/20 [01:28<00:04,  4.44s/it, Epoch: 8, Iter: 20,Loss: -0.160,Avg.Loss: -0.013,L.Slope: NA]Training epoch 8: 100%|██████████| 20/20 [01:28<00:00,  4.52s/it, Epoch: 8, Iter: 20,Loss: -0.160,Avg.Loss: -0.013,L.Slope: NA]Training epoch 8: 100%|██████████| 20/20 [01:28<00:00,  4.43s/it, Epoch: 8, Iter: 20,Loss: -0.160,Avg.Loss: -0.013,L.Slope: NA]
+Training epoch 9:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 535 ms
+function [run] finished in 491 ms
+function [run] finished in 529 ms
+function [run] finished in 515 ms
+function [run] finished in 519 ms
+function [run] finished in 540 ms
+function [run] finished in 586 ms
+function [run] finished in 600 ms
+Training epoch 9:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 9, Iter: 1,Loss: -0.280,Avg.Loss: -0.280,L.Slope: NA]Training epoch 9:   5%|▌         | 1/20 [00:04<01:24,  4.46s/it, Epoch: 9, Iter: 1,Loss: -0.280,Avg.Loss: -0.280,L.Slope: NA]function [run] finished in 544 ms
+function [run] finished in 500 ms
+function [run] finished in 582 ms
+function [run] finished in 559 ms
+function [run] finished in 530 ms
+function [run] finished in 569 ms
+function [run] finished in 579 ms
+function [run] finished in 525 ms
+Training epoch 9:   5%|▌         | 1/20 [00:08<01:24,  4.46s/it, Epoch: 9, Iter: 2,Loss: -0.218,Avg.Loss: -0.249,L.Slope: NA]Training epoch 9:  10%|█         | 2/20 [00:08<01:20,  4.50s/it, Epoch: 9, Iter: 2,Loss: -0.218,Avg.Loss: -0.249,L.Slope: NA]function [run] finished in 559 ms
+function [run] finished in 522 ms
+function [run] finished in 628 ms
+function [run] finished in 497 ms
+function [run] finished in 562 ms
+function [run] finished in 514 ms
+function [run] finished in 508 ms
+function [run] finished in 563 ms
+Training epoch 9:  10%|█         | 2/20 [00:13<01:20,  4.50s/it, Epoch: 9, Iter: 3,Loss: -0.259,Avg.Loss: -0.252,L.Slope: NA]Training epoch 9:  15%|█▌        | 3/20 [00:13<01:16,  4.49s/it, Epoch: 9, Iter: 3,Loss: -0.259,Avg.Loss: -0.252,L.Slope: NA]function [run] finished in 534 ms
+function [run] finished in 524 ms
+function [run] finished in 550 ms
+function [run] finished in 557 ms
+function [run] finished in 503 ms
+function [run] finished in 502 ms
+function [run] finished in 503 ms
+function [run] finished in 546 ms
+Training epoch 9:  15%|█▌        | 3/20 [00:17<01:16,  4.49s/it, Epoch: 9, Iter: 4,Loss: -0.410,Avg.Loss: -0.292,L.Slope: NA]Training epoch 9:  20%|██        | 4/20 [00:17<01:11,  4.44s/it, Epoch: 9, Iter: 4,Loss: -0.410,Avg.Loss: -0.292,L.Slope: NA]function [run] finished in 542 ms
+function [run] finished in 526 ms
+function [run] finished in 538 ms
+function [run] finished in 582 ms
+function [run] finished in 551 ms
+function [run] finished in 522 ms
+function [run] finished in 535 ms
+function [run] finished in 517 ms
+Training epoch 9:  20%|██        | 4/20 [00:22<01:11,  4.44s/it, Epoch: 9, Iter: 5,Loss: 0.097,Avg.Loss: -0.214,L.Slope: NA] Training epoch 9:  25%|██▌       | 5/20 [00:22<01:06,  4.45s/it, Epoch: 9, Iter: 5,Loss: 0.097,Avg.Loss: -0.214,L.Slope: NA]function [run] finished in 546 ms
+function [run] finished in 525 ms
+function [run] finished in 539 ms
+function [run] finished in 531 ms
+function [run] finished in 514 ms
+function [run] finished in 549 ms
+function [run] finished in 543 ms
+function [run] finished in 632 ms
+Training epoch 9:  25%|██▌       | 5/20 [00:26<01:06,  4.45s/it, Epoch: 9, Iter: 6,Loss: 0.379,Avg.Loss: -0.115,L.Slope: NA]Training epoch 9:  30%|███       | 6/20 [00:26<01:02,  4.47s/it, Epoch: 9, Iter: 6,Loss: 0.379,Avg.Loss: -0.115,L.Slope: NA]function [run] finished in 556 ms
+function [run] finished in 503 ms
+function [run] finished in 553 ms
+function [run] finished in 526 ms
+function [run] finished in 489 ms
+function [run] finished in 524 ms
+function [run] finished in 535 ms
+function [run] finished in 557 ms
+Training epoch 9:  30%|███       | 6/20 [00:31<01:02,  4.47s/it, Epoch: 9, Iter: 7,Loss: 0.166,Avg.Loss: -0.075,L.Slope: NA]Training epoch 9:  35%|███▌      | 7/20 [00:31<00:57,  4.45s/it, Epoch: 9, Iter: 7,Loss: 0.166,Avg.Loss: -0.075,L.Slope: NA]function [run] finished in 557 ms
+function [run] finished in 533 ms
+function [run] finished in 551 ms
+function [run] finished in 550 ms
+function [run] finished in 518 ms
+function [run] finished in 560 ms
+function [run] finished in 586 ms
+function [run] finished in 566 ms
+Training epoch 9:  35%|███▌      | 7/20 [00:35<00:57,  4.45s/it, Epoch: 9, Iter: 8,Loss: 0.194,Avg.Loss: -0.041,L.Slope: NA]Training epoch 9:  40%|████      | 8/20 [00:35<00:53,  4.49s/it, Epoch: 9, Iter: 8,Loss: 0.194,Avg.Loss: -0.041,L.Slope: NA]function [run] finished in 536 ms
+function [run] finished in 583 ms
+function [run] finished in 536 ms
+function [run] finished in 538 ms
+function [run] finished in 530 ms
+function [run] finished in 547 ms
+function [run] finished in 584 ms
+function [run] finished in 577 ms
+Training epoch 9:  40%|████      | 8/20 [00:40<00:53,  4.49s/it, Epoch: 9, Iter: 9,Loss: -0.473,Avg.Loss: -0.089,L.Slope: NA]Training epoch 9:  45%|████▌     | 9/20 [00:40<00:49,  4.52s/it, Epoch: 9, Iter: 9,Loss: -0.473,Avg.Loss: -0.089,L.Slope: NA]function [run] finished in 521 ms
+function [run] finished in 530 ms
+function [run] finished in 518 ms
+function [run] finished in 557 ms
+function [run] finished in 515 ms
+function [run] finished in 501 ms
+function [run] finished in 524 ms
+function [run] finished in 678 ms
+Training epoch 9:  45%|████▌     | 9/20 [00:44<00:49,  4.52s/it, Epoch: 9, Iter: 10,Loss: -0.358,Avg.Loss: -0.116,L.Slope: NA]Training epoch 9:  50%|█████     | 10/20 [00:44<00:45,  4.51s/it, Epoch: 9, Iter: 10,Loss: -0.358,Avg.Loss: -0.116,L.Slope: NA]function [run] finished in 576 ms
+function [run] finished in 505 ms
+function [run] finished in 578 ms
+function [run] finished in 515 ms
+function [run] finished in 557 ms
+function [run] finished in 519 ms
+function [run] finished in 619 ms
+function [run] finished in 508 ms
+Training epoch 9:  50%|█████     | 10/20 [00:49<00:45,  4.51s/it, Epoch: 9, Iter: 11,Loss: 0.089,Avg.Loss: -0.097,L.Slope: NA] Training epoch 9:  55%|█████▌    | 11/20 [00:49<00:40,  4.51s/it, Epoch: 9, Iter: 11,Loss: 0.089,Avg.Loss: -0.097,L.Slope: NA]function [run] finished in 606 ms
+function [run] finished in 545 ms
+function [run] finished in 525 ms
+function [run] finished in 565 ms
+function [run] finished in 598 ms
+function [run] finished in 561 ms
+function [run] finished in 489 ms
+function [run] finished in 526 ms
+Training epoch 9:  55%|█████▌    | 11/20 [00:53<00:40,  4.51s/it, Epoch: 9, Iter: 12,Loss: -0.091,Avg.Loss: -0.097,L.Slope: NA]Training epoch 9:  60%|██████    | 12/20 [00:53<00:36,  4.53s/it, Epoch: 9, Iter: 12,Loss: -0.091,Avg.Loss: -0.097,L.Slope: NA]function [run] finished in 542 ms
+function [run] finished in 510 ms
+function [run] finished in 583 ms
+function [run] finished in 511 ms
+function [run] finished in 586 ms
+function [run] finished in 531 ms
+function [run] finished in 537 ms
+function [run] finished in 554 ms
+Training epoch 9:  60%|██████    | 12/20 [00:58<00:36,  4.53s/it, Epoch: 9, Iter: 13,Loss: -0.350,Avg.Loss: -0.116,L.Slope: NA]Training epoch 9:  65%|██████▌   | 13/20 [00:58<00:31,  4.52s/it, Epoch: 9, Iter: 13,Loss: -0.350,Avg.Loss: -0.116,L.Slope: NA]function [run] finished in 572 ms
+function [run] finished in 491 ms
+function [run] finished in 546 ms
+function [run] finished in 523 ms
+function [run] finished in 544 ms
+function [run] finished in 550 ms
+function [run] finished in 522 ms
+function [run] finished in 525 ms
+Training epoch 9:  65%|██████▌   | 13/20 [01:02<00:31,  4.52s/it, Epoch: 9, Iter: 14,Loss: -0.304,Avg.Loss: -0.130,L.Slope: NA]Training epoch 9:  70%|███████   | 14/20 [01:02<00:26,  4.49s/it, Epoch: 9, Iter: 14,Loss: -0.304,Avg.Loss: -0.130,L.Slope: NA]function [run] finished in 529 ms
+function [run] finished in 502 ms
+function [run] finished in 497 ms
+function [run] finished in 556 ms
+function [run] finished in 546 ms
+function [run] finished in 569 ms
+function [run] finished in 522 ms
+function [run] finished in 505 ms
+Training epoch 9:  70%|███████   | 14/20 [01:07<00:26,  4.49s/it, Epoch: 9, Iter: 15,Loss: -0.274,Avg.Loss: -0.139,L.Slope: NA]Training epoch 9:  75%|███████▌  | 15/20 [01:07<00:22,  4.45s/it, Epoch: 9, Iter: 15,Loss: -0.274,Avg.Loss: -0.139,L.Slope: NA]function [run] finished in 531 ms
+function [run] finished in 534 ms
+function [run] finished in 490 ms
+function [run] finished in 563 ms
+function [run] finished in 572 ms
+function [run] finished in 486 ms
+function [run] finished in 535 ms
+function [run] finished in 545 ms
+Training epoch 9:  75%|███████▌  | 15/20 [01:11<00:22,  4.45s/it, Epoch: 9, Iter: 16,Loss: -0.355,Avg.Loss: -0.153,L.Slope: NA]Training epoch 9:  80%|████████  | 16/20 [01:11<00:17,  4.44s/it, Epoch: 9, Iter: 16,Loss: -0.355,Avg.Loss: -0.153,L.Slope: NA]function [run] finished in 511 ms
+function [run] finished in 506 ms
+function [run] finished in 506 ms
+function [run] finished in 550 ms
+function [run] finished in 537 ms
+function [run] finished in 616 ms
+function [run] finished in 621 ms
+function [run] finished in 598 ms
+Training epoch 9:  80%|████████  | 16/20 [01:16<00:17,  4.44s/it, Epoch: 9, Iter: 17,Loss: 0.097,Avg.Loss: -0.138,L.Slope: NA] Training epoch 9:  85%|████████▌ | 17/20 [01:16<00:13,  4.48s/it, Epoch: 9, Iter: 17,Loss: 0.097,Avg.Loss: -0.138,L.Slope: NA]function [run] finished in 529 ms
+function [run] finished in 524 ms
+function [run] finished in 534 ms
+function [run] finished in 549 ms
+function [run] finished in 519 ms
+function [run] finished in 623 ms
+function [run] finished in 755 ms
+function [run] finished in 527 ms
+Training epoch 9:  85%|████████▌ | 17/20 [01:20<00:13,  4.48s/it, Epoch: 9, Iter: 18,Loss: 0.103,Avg.Loss: -0.125,L.Slope: NA]Training epoch 9:  90%|█████████ | 18/20 [01:20<00:09,  4.55s/it, Epoch: 9, Iter: 18,Loss: 0.103,Avg.Loss: -0.125,L.Slope: NA]function [run] finished in 547 ms
+function [run] finished in 511 ms
+function [run] finished in 525 ms
+function [run] finished in 574 ms
+function [run] finished in 519 ms
+function [run] finished in 574 ms
+function [run] finished in 519 ms
+function [run] finished in 501 ms
+Training epoch 9:  90%|█████████ | 18/20 [01:25<00:09,  4.55s/it, Epoch: 9, Iter: 19,Loss: 0.053,Avg.Loss: -0.115,L.Slope: NA]Training epoch 9:  95%|█████████▌| 19/20 [01:25<00:04,  4.51s/it, Epoch: 9, Iter: 19,Loss: 0.053,Avg.Loss: -0.115,L.Slope: NA]function [run] finished in 544 ms
+function [run] finished in 674 ms
+function [run] finished in 782 ms
+function [run] finished in 541 ms
+function [run] finished in 550 ms
+function [run] finished in 506 ms
+function [run] finished in 573 ms
+function [run] finished in 1362 ms
+Training epoch 9:  95%|█████████▌| 19/20 [01:31<00:04,  4.51s/it, Epoch: 9, Iter: 20,Loss: 0.297,Avg.Loss: -0.095,L.Slope: NA]Training epoch 9: 100%|██████████| 20/20 [01:31<00:00,  4.87s/it, Epoch: 9, Iter: 20,Loss: 0.297,Avg.Loss: -0.095,L.Slope: NA]Training epoch 9: 100%|██████████| 20/20 [01:31<00:00,  4.55s/it, Epoch: 9, Iter: 20,Loss: 0.297,Avg.Loss: -0.095,L.Slope: NA]
+Training epoch 10:   0%|          | 0/20 [00:00<?, ?it/s]function [run] finished in 524 ms
+function [run] finished in 553 ms
+function [run] finished in 582 ms
+function [run] finished in 559 ms
+function [run] finished in 495 ms
+function [run] finished in 537 ms
+function [run] finished in 514 ms
+function [run] finished in 516 ms
+Training epoch 10:   0%|          | 0/20 [00:04<?, ?it/s, Epoch: 10, Iter: 1,Loss: 0.229,Avg.Loss: 0.229,L.Slope: NA]Training epoch 10:   5%|▌         | 1/20 [00:04<01:24,  4.43s/it, Epoch: 10, Iter: 1,Loss: 0.229,Avg.Loss: 0.229,L.Slope: NA]function [run] finished in 542 ms
+function [run] finished in 535 ms
+function [run] finished in 563 ms
+function [run] finished in 698 ms
+function [run] finished in 658 ms
+function [run] finished in 547 ms
+function [run] finished in 523 ms
+function [run] finished in 542 ms
+Training epoch 10:   5%|▌         | 1/20 [00:09<01:24,  4.43s/it, Epoch: 10, Iter: 2,Loss: 0.130,Avg.Loss: 0.180,L.Slope: NA]Training epoch 10:  10%|█         | 2/20 [00:09<01:23,  4.61s/it, Epoch: 10, Iter: 2,Loss: 0.130,Avg.Loss: 0.180,L.Slope: NA]function [run] finished in 545 ms
+function [run] finished in 497 ms
+function [run] finished in 494 ms
+function [run] finished in 522 ms
+function [run] finished in 504 ms
+function [run] finished in 590 ms
+function [run] finished in 578 ms
+function [run] finished in 515 ms
+Training epoch 10:  10%|█         | 2/20 [00:13<01:23,  4.61s/it, Epoch: 10, Iter: 3,Loss: 1.758,Avg.Loss: 0.706,L.Slope: NA]Training epoch 10:  15%|█▌        | 3/20 [00:13<01:16,  4.51s/it, Epoch: 10, Iter: 3,Loss: 1.758,Avg.Loss: 0.706,L.Slope: NA]function [run] finished in 540 ms
+function [run] finished in 530 ms
+function [run] finished in 543 ms
+function [run] finished in 526 ms
+function [run] finished in 518 ms
+function [run] finished in 523 ms
+function [run] finished in 503 ms
+function [run] finished in 518 ms
+Training epoch 10:  15%|█▌        | 3/20 [00:17<01:16,  4.51s/it, Epoch: 10, Iter: 4,Loss: -0.395,Avg.Loss: 0.431,L.Slope: NA]Training epoch 10:  20%|██        | 4/20 [00:17<01:11,  4.44s/it, Epoch: 10, Iter: 4,Loss: -0.395,Avg.Loss: 0.431,L.Slope: NA]function [run] finished in 598 ms
+function [run] finished in 528 ms
+function [run] finished in 539 ms
+function [run] finished in 536 ms
+function [run] finished in 505 ms
+function [run] finished in 532 ms
+function [run] finished in 530 ms
+function [run] finished in 554 ms
+Training epoch 10:  20%|██        | 4/20 [00:22<01:11,  4.44s/it, Epoch: 10, Iter: 5,Loss: 0.487,Avg.Loss: 0.442,L.Slope: NA] Training epoch 10:  25%|██▌       | 5/20 [00:22<01:06,  4.45s/it, Epoch: 10, Iter: 5,Loss: 0.487,Avg.Loss: 0.442,L.Slope: NA]function [run] finished in 528 ms
+function [run] finished in 532 ms
+function [run] finished in 524 ms
+function [run] finished in 538 ms
+function [run] finished in 555 ms
+function [run] finished in 534 ms
+function [run] finished in 564 ms
+function [run] finished in 510 ms
+Training epoch 10:  25%|██▌       | 5/20 [00:26<01:06,  4.45s/it, Epoch: 10, Iter: 6,Loss: 0.010,Avg.Loss: 0.370,L.Slope: NA]Training epoch 10:  30%|███       | 6/20 [00:26<01:02,  4.44s/it, Epoch: 10, Iter: 6,Loss: 0.010,Avg.Loss: 0.370,L.Slope: NA]function [run] finished in 513 ms
+function [run] finished in 514 ms
+function [run] finished in 510 ms
+function [run] finished in 582 ms
+function [run] finished in 513 ms
+function [run] finished in 512 ms
+function [run] finished in 515 ms
+function [run] finished in 524 ms
+Training epoch 10:  30%|███       | 6/20 [00:31<01:02,  4.44s/it, Epoch: 10, Iter: 7,Loss: 0.176,Avg.Loss: 0.342,L.Slope: NA]Training epoch 10:  35%|███▌      | 7/20 [00:31<00:57,  4.41s/it, Epoch: 10, Iter: 7,Loss: 0.176,Avg.Loss: 0.342,L.Slope: NA]function [run] finished in 531 ms
+function [run] finished in 647 ms
+function [run] finished in 503 ms
+function [run] finished in 504 ms
+function [run] finished in 490 ms
+function [run] finished in 518 ms
+function [run] finished in 528 ms
+function [run] finished in 545 ms
+Training epoch 10:  35%|███▌      | 7/20 [00:35<00:57,  4.41s/it, Epoch: 10, Iter: 8,Loss: 0.027,Avg.Loss: 0.303,L.Slope: NA]Training epoch 10:  40%|████      | 8/20 [00:35<00:52,  4.41s/it, Epoch: 10, Iter: 8,Loss: 0.027,Avg.Loss: 0.303,L.Slope: NA]function [run] finished in 539 ms
+function [run] finished in 570 ms
+function [run] finished in 783 ms
+function [run] finished in 508 ms
+function [run] finished in 508 ms
+function [run] finished in 581 ms
+function [run] finished in 534 ms
+function [run] finished in 513 ms
+Training epoch 10:  40%|████      | 8/20 [00:40<00:52,  4.41s/it, Epoch: 10, Iter: 9,Loss: -0.109,Avg.Loss: 0.257,L.Slope: NA]Training epoch 10:  45%|████▌     | 9/20 [00:40<00:49,  4.49s/it, Epoch: 10, Iter: 9,Loss: -0.109,Avg.Loss: 0.257,L.Slope: NA]function [run] finished in 575 ms
+function [run] finished in 543 ms
+function [run] finished in 508 ms
+function [run] finished in 529 ms
+function [run] finished in 494 ms
+function [run] finished in 586 ms
+function [run] finished in 527 ms
+function [run] finished in 577 ms
+Training epoch 10:  45%|████▌     | 9/20 [00:44<00:49,  4.49s/it, Epoch: 10, Iter: 10,Loss: 0.220,Avg.Loss: 0.253,L.Slope: NA]Training epoch 10:  50%|█████     | 10/20 [00:44<00:44,  4.49s/it, Epoch: 10, Iter: 10,Loss: 0.220,Avg.Loss: 0.253,L.Slope: NA]function [run] finished in 543 ms
+function [run] finished in 526 ms
+function [run] finished in 577 ms
+function [run] finished in 504 ms
+function [run] finished in 557 ms
+function [run] finished in 607 ms
+function [run] finished in 528 ms
+function [run] finished in 569 ms
+Training epoch 10:  50%|█████     | 10/20 [00:49<00:44,  4.49s/it, Epoch: 10, Iter: 11,Loss: 0.072,Avg.Loss: 0.237,L.Slope: NA]Training epoch 10:  55%|█████▌    | 11/20 [00:49<00:40,  4.51s/it, Epoch: 10, Iter: 11,Loss: 0.072,Avg.Loss: 0.237,L.Slope: NA]function [run] finished in 536 ms
+function [run] finished in 530 ms
+function [run] finished in 539 ms
+function [run] finished in 550 ms
+function [run] finished in 508 ms
+function [run] finished in 556 ms
+function [run] finished in 490 ms
+function [run] finished in 516 ms
+Training epoch 10:  55%|█████▌    | 11/20 [00:53<00:40,  4.51s/it, Epoch: 10, Iter: 12,Loss: 0.039,Avg.Loss: 0.220,L.Slope: NA]Training epoch 10:  60%|██████    | 12/20 [00:53<00:35,  4.46s/it, Epoch: 10, Iter: 12,Loss: 0.039,Avg.Loss: 0.220,L.Slope: NA]function [run] finished in 535 ms
+function [run] finished in 518 ms
+function [run] finished in 521 ms
+function [run] finished in 493 ms
+function [run] finished in 604 ms
+function [run] finished in 585 ms
+function [run] finished in 559 ms
+function [run] finished in 762 ms
+Training epoch 10:  60%|██████    | 12/20 [00:58<00:35,  4.46s/it, Epoch: 10, Iter: 13,Loss: -0.079,Avg.Loss: 0.197,L.Slope: NA]Training epoch 10:  65%|██████▌   | 13/20 [00:58<00:31,  4.54s/it, Epoch: 10, Iter: 13,Loss: -0.079,Avg.Loss: 0.197,L.Slope: NA]function [run] finished in 530 ms
+function [run] finished in 517 ms
+function [run] finished in 527 ms
+function [run] finished in 600 ms
+function [run] finished in 550 ms
+function [run] finished in 505 ms
+function [run] finished in 502 ms
+function [run] finished in 551 ms
+Training epoch 10:  65%|██████▌   | 13/20 [01:02<00:31,  4.54s/it, Epoch: 10, Iter: 14,Loss: -0.015,Avg.Loss: 0.182,L.Slope: NA]Training epoch 10:  70%|███████   | 14/20 [01:02<00:27,  4.50s/it, Epoch: 10, Iter: 14,Loss: -0.015,Avg.Loss: 0.182,L.Slope: NA]function [run] finished in 599 ms
+function [run] finished in 613 ms
+function [run] finished in 610 ms
+function [run] finished in 565 ms
+function [run] finished in 553 ms
+function [run] finished in 614 ms
+function [run] finished in 518 ms
+function [run] finished in 557 ms
+Training epoch 10:  70%|███████   | 14/20 [01:07<00:27,  4.50s/it, Epoch: 10, Iter: 15,Loss: 0.053,Avg.Loss: 0.174,L.Slope: NA] Training epoch 10:  75%|███████▌  | 15/20 [01:07<00:22,  4.58s/it, Epoch: 10, Iter: 15,Loss: 0.053,Avg.Loss: 0.174,L.Slope: NA]function [run] finished in 569 ms
+function [run] finished in 559 ms
+function [run] finished in 515 ms
+function [run] finished in 492 ms
+function [run] finished in 525 ms
+function [run] finished in 535 ms
+function [run] finished in 564 ms
+function [run] finished in 586 ms
+Training epoch 10:  75%|███████▌  | 15/20 [01:11<00:22,  4.58s/it, Epoch: 10, Iter: 16,Loss: 0.131,Avg.Loss: 0.171,L.Slope: NA]Training epoch 10:  80%|████████  | 16/20 [01:11<00:18,  4.55s/it, Epoch: 10, Iter: 16,Loss: 0.131,Avg.Loss: 0.171,L.Slope: NA]function [run] finished in 597 ms
+function [run] finished in 518 ms
+function [run] finished in 572 ms
+function [run] finished in 502 ms
+function [run] finished in 724 ms
+function [run] finished in 518 ms
+function [run] finished in 515 ms
+function [run] finished in 532 ms
+Training epoch 10:  80%|████████  | 16/20 [01:16<00:18,  4.55s/it, Epoch: 10, Iter: 17,Loss: 0.135,Avg.Loss: 0.169,L.Slope: NA]Training epoch 10:  85%|████████▌ | 17/20 [01:16<00:13,  4.57s/it, Epoch: 10, Iter: 17,Loss: 0.135,Avg.Loss: 0.169,L.Slope: NA]function [run] finished in 520 ms
+function [run] finished in 521 ms
+function [run] finished in 535 ms
+function [run] finished in 518 ms
+function [run] finished in 523 ms
+function [run] finished in 511 ms
+function [run] finished in 512 ms
+function [run] finished in 611 ms
+Training epoch 10:  85%|████████▌ | 17/20 [01:20<00:13,  4.57s/it, Epoch: 10, Iter: 18,Loss: -0.161,Avg.Loss: 0.151,L.Slope: NA]Training epoch 10:  90%|█████████ | 18/20 [01:20<00:09,  4.52s/it, Epoch: 10, Iter: 18,Loss: -0.161,Avg.Loss: 0.151,L.Slope: NA]function [run] finished in 535 ms
+function [run] finished in 545 ms
+function [run] finished in 551 ms
+function [run] finished in 504 ms
+function [run] finished in 514 ms
+function [run] finished in 603 ms
+function [run] finished in 521 ms
+function [run] finished in 683 ms
+Training epoch 10:  90%|█████████ | 18/20 [01:25<00:09,  4.52s/it, Epoch: 10, Iter: 19,Loss: -0.168,Avg.Loss: 0.134,L.Slope: NA]Training epoch 10:  95%|█████████▌| 19/20 [01:25<00:04,  4.55s/it, Epoch: 10, Iter: 19,Loss: -0.168,Avg.Loss: 0.134,L.Slope: NA]function [run] finished in 530 ms
+function [run] finished in 506 ms
+function [run] finished in 509 ms
+function [run] finished in 520 ms
+function [run] finished in 518 ms
+function [run] finished in 508 ms
+function [run] finished in 478 ms
+function [run] finished in 526 ms
+Training epoch 10:  95%|█████████▌| 19/20 [01:29<00:04,  4.55s/it, Epoch: 10, Iter: 20,Loss: 0.253,Avg.Loss: 0.140,L.Slope: NA] Training epoch 10: 100%|██████████| 20/20 [01:29<00:00,  4.45s/it, Epoch: 10, Iter: 20,Loss: 0.253,Avg.Loss: 0.140,L.Slope: NA]Training epoch 10: 100%|██████████| 20/20 [01:29<00:00,  4.49s/it, Epoch: 10, Iter: 20,Loss: 0.253,Avg.Loss: 0.140,L.Slope: NA]
+Plot results
+function [run] finished in 510 ms
+function [run] finished in 513 ms
+function [run] finished in 554 ms
+function [run] finished in 506 ms
+function [run] finished in 508 ms
+function [run] finished in 516 ms
+function [run] finished in 538 ms
+function [run] finished in 529 ms
+function [run] finished in 542 ms
+function [run] finished in 562 ms
+function [run] finished in 512 ms
+function [run] finished in 542 ms
+function [run] finished in 519 ms
+function [run] finished in 523 ms
+function [run] finished in 567 ms
+function [run] finished in 507 ms
+function [run] finished in 518 ms
+function [run] finished in 511 ms
+function [run] finished in 511 ms
+function [run] finished in 514 ms
+function [run] finished in 518 ms
+function [run] finished in 616 ms
+function [run] finished in 508 ms
+function [run] finished in 577 ms
+function [run] finished in 504 ms
+function [run] finished in 487 ms
+function [run] finished in 493 ms
+function [run] finished in 518 ms
+function [run] finished in 535 ms
+function [run] finished in 522 ms
+function [run] finished in 559 ms
+function [run] finished in 530 ms
+function [run] finished in 496 ms
+function [run] finished in 489 ms
+function [run] finished in 484 ms
+function [run] finished in 511 ms
+function [run] finished in 501 ms
+function [run] finished in 547 ms
+function [run] finished in 501 ms
+function [run] finished in 539 ms
+function [run] finished in 508 ms
+function [run] finished in 504 ms
+function [run] finished in 519 ms
+function [run] finished in 523 ms
+function [run] finished in 550 ms
+function [run] finished in 495 ms
+function [run] finished in 519 ms
+function [run] finished in 507 ms
+function [run] finished in 510 ms
+function [run] finished in 567 ms
